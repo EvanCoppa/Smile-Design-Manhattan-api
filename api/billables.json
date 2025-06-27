@@ -1,0 +1,6295 @@
+[ {
+    "Procedure Code": "UPREST",
+    "Abbrev Description": "",
+    "Description": "Veneers Upper",
+    "Cost": "$32,500.00"
+  },
+   {
+    "Procedure Code": "LOWREST",
+    "Abbrev Description": "Veneers lower",
+    "Description": "Guaranteeth Color Serum",
+    "Cost": "$32,500.00"
+  },
+  {
+    "Procedure Code": "D0120",
+    "Abbrev Description": "PeriodicX",
+    "Description": "Periodic oral evaluation",
+    "Cost": "$260.00"
+  },
+  {
+    "Procedure Code": "D0140",
+    "Abbrev Description": "LimitedEx",
+    "Description": "Limited oral evaluation",
+    "Cost": "$364.00"
+  },
+  {
+    "Procedure Code": "D0145",
+    "Abbrev Description": "Eval<3yrs",
+    "Description": "Oral evaluation < 3 yrs of age",
+    "Cost": "$364.00"
+  },
+  {
+    "Procedure Code": "D0150",
+    "Abbrev Description": "CompEx",
+    "Description": "Comprehensive oral evaluation",
+    "Cost": "$364.00"
+  },
+  {
+    "Procedure Code": "D0160",
+    "Abbrev Description": "ExtEval",
+    "Description": "Detail/extensive oral eval, B/R",
+    "Cost": "$208.00"
+  },
+  {
+    "Procedure Code": "D0170",
+    "Abbrev Description": "ReEval",
+    "Description": "Limited re-evaluation",
+    "Cost": "$172.00"
+  },
+  {
+    "Procedure Code": "D0180",
+    "Abbrev Description": "CmpPerEvl",
+    "Description": "Comprehensive perio evaluation",
+    "Cost": "$520.00"
+  },
+  {
+    "Procedure Code": "D0210",
+    "Abbrev Description": "FMX",
+    "Description": "Intraoral Full Mouth Images",
+    "Cost": "$468.00"
+  },
+  {
+    "Procedure Code": "D0220",
+    "Abbrev Description": "PA1st",
+    "Description": "Intraoral Periapical Images",
+    "Cost": "$120.00"
+  },
+  {
+    "Procedure Code": "D0230",
+    "Abbrev Description": "PAadd",
+    "Description": "Intraoral-periapical each add'l",
+    "Cost": "$99.00"
+  },
+  {
+    "Procedure Code": "D0240",
+    "Abbrev Description": "OccImg",
+    "Description": "Intraoral Occlusal Image",
+    "Cost": "$109.00"
+  },
+  {
+    "Procedure Code": "D0250",
+    "Abbrev Description": "Extra2D",
+    "Description": "Extraoral 2D projection image",
+    "Cost": "$120.00"
+  },
+  {
+    "Procedure Code": "D0260",
+    "Abbrev Description": "ExtraorX+",
+    "Description": "Extraoral-each additional film",
+    "Cost": "$104.00"
+  },
+  {
+    "Procedure Code": "D0270",
+    "Abbrev Description": "1BWX",
+    "Description": "Bitewing Single Image",
+    "Cost": "$109.00"
+  },
+  {
+    "Procedure Code": "D0272",
+    "Abbrev Description": "2BWX",
+    "Description": "Bitewing Two Image",
+    "Cost": "$192.00"
+  },
+  {
+    "Procedure Code": "D0273",
+    "Abbrev Description": "3BWX",
+    "Description": "Bitewing Three Image",
+    "Cost": "$286.00"
+  },
+  {
+    "Procedure Code": "D0274",
+    "Abbrev Description": "4BWX",
+    "Description": "Bitewing Four Image",
+    "Cost": "$338.00"
+  },
+  {
+    "Procedure Code": "D0277",
+    "Abbrev Description": "VertBWX",
+    "Description": "Vertical Bitewing 7 to 8 Images",
+    "Cost": "$182.00"
+  },
+  {
+    "Procedure Code": "D0290",
+    "Abbrev Description": "SurvImg",
+    "Description": "Skull &Facial Bone Survey Image",
+    "Cost": "$213.00"
+  },
+  {
+    "Procedure Code": "D0310",
+    "Abbrev Description": "Sialo",
+    "Description": "Sialography",
+    "Cost": "$78.00"
+  },
+  {
+    "Procedure Code": "D0320",
+    "Abbrev Description": "TMJarthro",
+    "Description": "TMJ arthrogram, incl injection",
+    "Cost": "$78.00"
+  },
+  {
+    "Procedure Code": "D0321",
+    "Abbrev Description": "OtherTMJ",
+    "Description": "Other TMJ Images",
+    "Cost": "$78.00"
+  },
+  {
+    "Procedure Code": "D0322",
+    "Abbrev Description": "Tomograph",
+    "Description": "Tomographic survey",
+    "Cost": "$78.00"
+  },
+  {
+    "Procedure Code": "D0330",
+    "Abbrev Description": "Pano",
+    "Description": "Panoramic Image",
+    "Cost": "$307.00"
+  },
+  {
+    "Procedure Code": "D0340",
+    "Abbrev Description": "2DCephalo",
+    "Description": "2D cephalometric image",
+    "Cost": "$260.00"
+  },
+  {
+    "Procedure Code": "D0350",
+    "Abbrev Description": "2DOrlImgs",
+    "Description": "2D Oral/Facial Photo Images",
+    "Cost": "$156.00"
+  },
+  {
+    "Procedure Code": "D0415",
+    "Abbrev Description": "BactStud",
+    "Description": "Collection of microorganisms",
+    "Cost": "$94.00"
+  },
+  {
+    "Procedure Code": "D0416",
+    "Abbrev Description": "VrlCultr",
+    "Description": "Viral culture",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D0421",
+    "Abbrev Description": "GenetTest",
+    "Description": "Genetic test-suscept oral dis",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D0425",
+    "Abbrev Description": "CarisTest",
+    "Description": "Caries susceptibility tests",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D0431",
+    "Abbrev Description": "TestMucAb",
+    "Description": "Adjunc pre-diag test-detect muc",
+    "Cost": "$146.00"
+  },
+  {
+    "Procedure Code": "D0460",
+    "Abbrev Description": "PulpVitTe",
+    "Description": "Pulp vitality tests",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D0470",
+    "Abbrev Description": "DiagCasts",
+    "Description": "Diagnostic casts",
+    "Cost": "$364.00"
+  },
+  {
+    "Procedure Code": "D0472",
+    "Abbrev Description": "AcTisExam",
+    "Description": "Accession of tissue,gr exam,rpt",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D0473",
+    "Abbrev Description": "AcTisGrEx",
+    "Description": "Access of tiss,gr&mic exam,rpt",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D0474",
+    "Abbrev Description": "AcTisDsEx",
+    "Description": "Acc of tiss,exam,surg mar,rpt",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D0475",
+    "Abbrev Description": "DecalcPrc",
+    "Description": "Decalcification procedure",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D0476",
+    "Abbrev Description": "StnsMicro",
+    "Description": "Special stains for microorg",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D0477",
+    "Abbrev Description": "StnsNotMi",
+    "Description": "Special stains-not for microorg",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D0478",
+    "Abbrev Description": "ImmunStns",
+    "Description": "Immunohistochemical stains",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D0479",
+    "Abbrev Description": "TissHybrd",
+    "Description": "Tissue in-situ hybrid-inclu int",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D0480",
+    "Abbrev Description": "CytoSmrs",
+    "Description": "Cytologic smears, exam, report",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D0481",
+    "Abbrev Description": "ElecMicro",
+    "Description": "Electron microscopy",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D0482",
+    "Abbrev Description": "DrImFluor",
+    "Description": "Direct immunofluorescence",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D0483",
+    "Abbrev Description": "InImFluor",
+    "Description": "Indirect immunofluorescence",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D0484",
+    "Abbrev Description": "CnsSlPrEl",
+    "Description": "Consult on slides prp elsewhere",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D0485",
+    "Abbrev Description": "CnsPrpSlB",
+    "Description": "Consult, slides from biopsy",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D0486",
+    "Abbrev Description": "CytolSamp",
+    "Description": "Examination of Cytologic Sample",
+    "Cost": "$234.00"
+  },
+  {
+    "Procedure Code": "D0502",
+    "Abbrev Description": "OthPath",
+    "Description": "Other oral path procedure, B/R",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D0999",
+    "Abbrev Description": "UnspDiag",
+    "Description": "Unspecified diag procedure, B/R",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D1110",
+    "Abbrev Description": "ProphyAd",
+    "Description": "Prophylaxis-adult",
+    "Cost": "$338.00"
+  },
+  {
+    "Procedure Code": "D1120",
+    "Abbrev Description": "ProphyCh",
+    "Description": "Prophylaxis-child",
+    "Cost": "$182.00"
+  },
+  {
+    "Procedure Code": "D1206",
+    "Abbrev Description": "TopFlride",
+    "Description": "Topical Applic Fluoride Varnish",
+    "Cost": "$104.00"
+  },
+  {
+    "Procedure Code": "D1310",
+    "Abbrev Description": "NutriCnsl",
+    "Description": "Nutritional counseling",
+    "Cost": "$104.00"
+  },
+  {
+    "Procedure Code": "D1320",
+    "Abbrev Description": "TobacCnsl",
+    "Description": "Tobacco counseling",
+    "Cost": "$104.00"
+  },
+  {
+    "Procedure Code": "D1330",
+    "Abbrev Description": "OralHygIn",
+    "Description": "Oral hygiene instruction",
+    "Cost": "$104.00"
+  },
+  {
+    "Procedure Code": "D1351",
+    "Abbrev Description": "Sealant",
+    "Description": "Sealant-per tooth",
+    "Cost": "$120.00"
+  },
+  {
+    "Procedure Code": "D1510",
+    "Abbrev Description": "SpMFixUni",
+    "Description": "Space maint-fixed-unilateral",
+    "Cost": "$676.00"
+  },
+  {
+    "Procedure Code": "D1515",
+    "Abbrev Description": "SpMFixBil",
+    "Description": "Space maint-fixed-bilateral",
+    "Cost": "$676.00"
+  },
+  {
+    "Procedure Code": "D1520",
+    "Abbrev Description": "SpMRemUni",
+    "Description": "Space maint-remov-unilateral",
+    "Cost": "$676.00"
+  },
+  {
+    "Procedure Code": "D1525",
+    "Abbrev Description": "SpMRemBil",
+    "Description": "Space maint-remov-bilateral",
+    "Cost": "$780.00"
+  },
+  {
+    "Procedure Code": "D1550",
+    "Abbrev Description": "RecmtBnd",
+    "Description": "Re-cement/bnd space maint",
+    "Cost": "$364.00"
+  },
+  {
+    "Procedure Code": "D1555",
+    "Abbrev Description": "RmvSpcMnt",
+    "Description": "Removal of fixed space maint",
+    "Cost": "$364.00"
+  },
+  {
+    "Procedure Code": "D2140",
+    "Abbrev Description": "Amalg1Per",
+    "Description": "Amalgam-1 surf. prim/perm",
+    "Cost": "$260.00"
+  },
+  {
+    "Procedure Code": "D2150",
+    "Abbrev Description": "Amalg2Per",
+    "Description": "Amalgam-2 surf. prim/perm",
+    "Cost": "$286.00"
+  },
+  {
+    "Procedure Code": "D2160",
+    "Abbrev Description": "Amalg3Per",
+    "Description": "Amalgam-3 surf. prim/perm",
+    "Cost": "$312.00"
+  },
+  {
+    "Procedure Code": "D2161",
+    "Abbrev Description": "Amalg4Per",
+    "Description": "Amalgam-4+ surf. prim/perm",
+    "Cost": "$338.00"
+  },
+  {
+    "Procedure Code": "D2330",
+    "Abbrev Description": "Resin1",
+    "Description": "Resin Crown",
+    "Cost": "$780.00"
+  },
+  {
+    "Procedure Code": "D2331",
+    "Abbrev Description": "Resin2",
+    "Description": "Resin-two surfaces, anterior",
+    "Cost": "$884.00"
+  },
+  {
+    "Procedure Code": "D2332",
+    "Abbrev Description": "Resin3",
+    "Description": "Resin-three surfaces, anterior",
+    "Cost": "$884.00"
+  },
+  {
+    "Procedure Code": "D2335",
+    "Abbrev Description": "Res4/inAn",
+    "Description": "Resin-4+ w/incis angle-anterior",
+    "Cost": "$884.00"
+  },
+  {
+    "Procedure Code": "D2390",
+    "Abbrev Description": "CrnResAnt",
+    "Description": "Resin composite crown, anterior",
+    "Cost": "$884.00"
+  },
+  {
+    "Procedure Code": "D2391",
+    "Abbrev Description": "Comp1surf",
+    "Description": "Resin composite-1s, posterior",
+    "Cost": "$884.00"
+  },
+  {
+    "Procedure Code": "D2392",
+    "Abbrev Description": "Comp2surf",
+    "Description": "Resin composite-2s, posterior",
+    "Cost": "$884.00"
+  },
+  {
+    "Procedure Code": "D2393",
+    "Abbrev Description": "Comp3surf",
+    "Description": "Resin composite-3s, posterior",
+    "Cost": "$884.00"
+  },
+  {
+    "Procedure Code": "D2394",
+    "Abbrev Description": "Comp4surf",
+    "Description": "Resin composite-4+s, posterior",
+    "Cost": "$884.00"
+  },
+  {
+    "Procedure Code": "D2410",
+    "Abbrev Description": "GoldFoil1",
+    "Description": "Gold foil-one surface",
+    "Cost": "$99.00"
+  },
+  {
+    "Procedure Code": "D2420",
+    "Abbrev Description": "GoldFoil2",
+    "Description": "Gold foil-two surfaces",
+    "Cost": "$99.00"
+  },
+  {
+    "Procedure Code": "D2430",
+    "Abbrev Description": "GoldFoil3",
+    "Description": "Gold foil-three surfaces",
+    "Cost": "$99.00"
+  },
+  {
+    "Procedure Code": "D2510",
+    "Abbrev Description": "InlayMet1",
+    "Description": "Inlay-metallic-one surface",
+    "Cost": "$2,392.00"
+  },
+  {
+    "Procedure Code": "D2520",
+    "Abbrev Description": "InlayMet2",
+    "Description": "Inlay-metallic-two surfaces",
+    "Cost": "$2,392.00"
+  },
+  {
+    "Procedure Code": "D2530",
+    "Abbrev Description": "InlayMet3",
+    "Description": "Inlay-metallic-three + surfaces",
+    "Cost": "$2,392.00"
+  },
+  {
+    "Procedure Code": "D2542",
+    "Abbrev Description": "OnlayMet2",
+    "Description": "Onlay-metallic-two surfaces",
+    "Cost": "$2,392.00"
+  },
+  {
+    "Procedure Code": "D2543",
+    "Abbrev Description": "OnlayMet3",
+    "Description": "Onlay-metallic-three surfaces",
+    "Cost": "$2,392.00"
+  },
+  {
+    "Procedure Code": "D2544",
+    "Abbrev Description": "OnlayMet4",
+    "Description": "Onlay-metallic-four + surfaces",
+    "Cost": "$2,392.00"
+  },
+  {
+    "Procedure Code": "D2610",
+    "Abbrev Description": "InPorc/C1",
+    "Description": "Inlay-porcel/ceramic-1 surface",
+    "Cost": "$2,392.00"
+  },
+  {
+    "Procedure Code": "D2620",
+    "Abbrev Description": "InPorc/C2",
+    "Description": "Inlay-porcel/ceramic-2 surface",
+    "Cost": "$2,392.00"
+  },
+  {
+    "Procedure Code": "D2630",
+    "Abbrev Description": "InPorc/C3",
+    "Description": "Inlay-porcel/ceramic-3+ surface",
+    "Cost": "$2,392.00"
+  },
+  {
+    "Procedure Code": "D2642",
+    "Abbrev Description": "Onlay/2su",
+    "Description": "Onlay-porcel/ceram-2 surface",
+    "Cost": "$2,392.00"
+  },
+  {
+    "Procedure Code": "D2643",
+    "Abbrev Description": "OnPorc/3s",
+    "Description": "Onlay-porcel/ceram-3 surface",
+    "Cost": "$3,848.00"
+  },
+  {
+    "Procedure Code": "D2644",
+    "Abbrev Description": "OnPorc/4+",
+    "Description": "Onlay-porcel/ceram-4 + surface",
+    "Cost": "$2,392.00"
+  },
+  {
+    "Procedure Code": "D2650",
+    "Abbrev Description": "InComR1Lb",
+    "Description": "Inlay-resin composite-1 surface",
+    "Cost": "$2,392.00"
+  },
+  {
+    "Procedure Code": "D2651",
+    "Abbrev Description": "IncomR2Lb",
+    "Description": "Inlay-resin composite-2 surface",
+    "Cost": "$2,392.00"
+  },
+  {
+    "Procedure Code": "D2652",
+    "Abbrev Description": "InComR3Lb",
+    "Description": "Inlay-resin composite-3+surface",
+    "Cost": "$2,392.00"
+  },
+  {
+    "Procedure Code": "D2662",
+    "Abbrev Description": "OnComR1s",
+    "Description": "Onlay-resin composite-1 surface",
+    "Cost": "$2,392.00"
+  },
+  {
+    "Procedure Code": "D2663",
+    "Abbrev Description": "OnComR2s",
+    "Description": "Onlay-resin composite-2 surface",
+    "Cost": "$2,392.00"
+  },
+  {
+    "Procedure Code": "D2664",
+    "Abbrev Description": "OnComR3+",
+    "Description": "Onlay-resin composite-3+surface",
+    "Cost": "$2,392.00"
+  },
+  {
+    "Procedure Code": "D2710",
+    "Abbrev Description": "CrnResin",
+    "Description": "Indirect Resin-Based Crown",
+    "Cost": "$2,392.00"
+  },
+  {
+    "Procedure Code": "D2712",
+    "Abbrev Description": "Crwn34RsC",
+    "Description": "Crown-3/4 resin comp(indirect)",
+    "Cost": "$1,560.00"
+  },
+  {
+    "Procedure Code": "D2720",
+    "Abbrev Description": "CrwnResHN",
+    "Description": "Crown-resin w/high noble metal",
+    "Cost": "$2,392.00"
+  },
+  {
+    "Procedure Code": "D2721",
+    "Abbrev Description": "CrwnResBm",
+    "Description": "Crown-resin w/ most base metal",
+    "Cost": "$1,024.00"
+  },
+  {
+    "Procedure Code": "D2722",
+    "Abbrev Description": "CrwnResNm",
+    "Description": "Crown-resin with noble metal",
+    "Cost": "$1,066.00"
+  },
+  {
+    "Procedure Code": "D2740",
+    "Abbrev Description": "CrownPrep",
+    "Description": "Crown Porcelain",
+    "Cost": "$3,848.00"
+  },
+  {
+    "Procedure Code": "D2750",
+    "Abbrev Description": "CrnPrFHnM",
+    "Description": "Crown-porc fuse high noble mtl",
+    "Cost": "$3,848.00"
+  },
+  {
+    "Procedure Code": "D2751",
+    "Abbrev Description": "CrwnPrFBm",
+    "Description": "Crown-porc fused to base metal",
+    "Cost": "$3,848.00"
+  },
+  {
+    "Procedure Code": "D2752",
+    "Abbrev Description": "CrnPrFNm",
+    "Description": "Crown-porc fused noble metal",
+    "Cost": "$3,848.00"
+  },
+  {
+    "Procedure Code": "D2780",
+    "Abbrev Description": "Crn3/4HnM",
+    "Description": "Crown-3/4 cast high noble metal",
+    "Cost": "$3,848.00"
+  },
+  {
+    "Procedure Code": "D2781",
+    "Abbrev Description": "Crn3/4Bm",
+    "Description": "Crown-3/4 cast most base metal",
+    "Cost": "$3,848.00"
+  },
+  {
+    "Procedure Code": "D2782",
+    "Abbrev Description": "Crn3/4Nm",
+    "Description": "Crown-3/4 cast noble metal",
+    "Cost": "$3,848.00"
+  },
+  {
+    "Procedure Code": "D2783",
+    "Abbrev Description": "Crn3/4Prc",
+    "Description": "Crown-3/4 porcelain/ceramic",
+    "Cost": "$3,848.00"
+  },
+  {
+    "Procedure Code": "D2790",
+    "Abbrev Description": "CrnFlcHNm",
+    "Description": "Crown-full cast high noble mtl",
+    "Cost": "$3,848.00"
+  },
+  {
+    "Procedure Code": "D2791",
+    "Abbrev Description": "CrnFlcBm",
+    "Description": "Crown-full cast base metal",
+    "Cost": "$3,848.00"
+  },
+  {
+    "Procedure Code": "D2792",
+    "Abbrev Description": "CrnFlcNm",
+    "Description": "Crown-full cast noble metal",
+    "Cost": "$3,848.00"
+  },
+  {
+    "Procedure Code": "D2794",
+    "Abbrev Description": "CrnTitanm",
+    "Description": "Crown-titanium",
+    "Cost": "$3,848.00"
+  },
+  {
+    "Procedure Code": "D2799",
+    "Abbrev Description": "ProvCrwn",
+    "Description": "Provisional crown",
+    "Cost": "$1,248.00"
+  },
+  {
+    "Procedure Code": "D2910",
+    "Abbrev Description": "RecmtInly",
+    "Description": "Recement/bnd inlay/onlay/vr/prt",
+    "Cost": "$780.00"
+  },
+  {
+    "Procedure Code": "D2915",
+    "Abbrev Description": "RecmtPost",
+    "Description": "Recmnt/bnd Ind/prefab post/core",
+    "Cost": "$780.00"
+  },
+  {
+    "Procedure Code": "D2920",
+    "Abbrev Description": "RecmtCrwn",
+    "Description": "Re-cement or re-bond crown",
+    "Cost": "$780.00"
+  },
+  {
+    "Procedure Code": "D2930",
+    "Abbrev Description": "PrFbSSCPr",
+    "Description": "Prefab stain steel crn-primary",
+    "Cost": "$780.00"
+  },
+  {
+    "Procedure Code": "D2931",
+    "Abbrev Description": "PrFbSSCPe",
+    "Description": "Prefab stain steel crown-perm",
+    "Cost": "$780.00"
+  },
+  {
+    "Procedure Code": "D2932",
+    "Abbrev Description": "PrFbRsCrn",
+    "Description": "Prefabricated resin crown",
+    "Cost": "$780.00"
+  },
+  {
+    "Procedure Code": "D2933",
+    "Abbrev Description": "PrFbSCRsW",
+    "Description": "Prefab stl crown w/resin window",
+    "Cost": "$780.00"
+  },
+  {
+    "Procedure Code": "D2934",
+    "Abbrev Description": "PrFbECSPr",
+    "Description": "Prefb esth ctd stnl stl crn-prm",
+    "Cost": "$780.00"
+  },
+  {
+    "Procedure Code": "D2940",
+    "Abbrev Description": "ProtRest",
+    "Description": "Protective Restoration",
+    "Cost": "$884.00"
+  },
+  {
+    "Procedure Code": "D2950",
+    "Abbrev Description": "CrnBldPin",
+    "Description": "Core buildup, include any pins",
+    "Cost": "$884.00"
+  },
+  {
+    "Procedure Code": "D2951",
+    "Abbrev Description": "PnRetTth+",
+    "Description": "Pin retention-/tooth, (+ rest)",
+    "Cost": "$109.00"
+  },
+  {
+    "Procedure Code": "D2952",
+    "Abbrev Description": "FabPst/Cr",
+    "Description": "Post/core in add to crown, fabr",
+    "Cost": "$884.00"
+  },
+  {
+    "Procedure Code": "D2953",
+    "Abbrev Description": "FabPstAdd",
+    "Description": "Each add'l fabr post-same tooth",
+    "Cost": "$884.00"
+  },
+  {
+    "Procedure Code": "D2954",
+    "Abbrev Description": "PrefabPos",
+    "Description": "Prefab post/core in add to crn",
+    "Cost": "$884.00"
+  },
+  {
+    "Procedure Code": "D2955",
+    "Abbrev Description": "PostRemov",
+    "Description": "Post removal (not with endo)",
+    "Cost": "$988.00"
+  },
+  {
+    "Procedure Code": "D2957",
+    "Abbrev Description": "PrFbPtAdd",
+    "Description": "Each + prefab post-same tooth",
+    "Cost": "$520.00"
+  },
+  {
+    "Procedure Code": "D2960",
+    "Abbrev Description": "LabVnLmCs",
+    "Description": "Labial veneer(laminate)-chairsd",
+    "Cost": "$2,028.00"
+  },
+  {
+    "Procedure Code": "D2961",
+    "Abbrev Description": "LabVnRsLm",
+    "Description": "Labial veneer (resin lamin)-lab",
+    "Cost": "$2,392.00"
+  },
+  {
+    "Procedure Code": "D2962",
+    "Abbrev Description": "LabVeneer",
+    "Description": "Labial Porceln Veneer ",
+    "Cost": "$3,848.00"
+  },
+  {
+    "Procedure Code": "D2970",
+    "Abbrev Description": "TempCrn",
+    "Description": "Temporary crown",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D2971",
+    "Abbrev Description": "CrwnUnExD",
+    "Description": "Add'l prc-new crn undr exs dent",
+    "Cost": "$676.00"
+  },
+  {
+    "Procedure Code": "D2975",
+    "Abbrev Description": "Coping",
+    "Description": "Coping",
+    "Cost": "$676.00"
+  },
+  {
+    "Procedure Code": "D2980",
+    "Abbrev Description": "CrownRep",
+    "Description": "Crown Repair, Material Failure",
+    "Cost": "$1,768.00"
+  },
+  {
+    "Procedure Code": "D2999",
+    "Abbrev Description": "UnspResPr",
+    "Description": "Unspecif restorative proced B/R",
+    "Cost": "$130.00"
+  },
+  {
+    "Procedure Code": "D3110",
+    "Abbrev Description": "PlpCpDir",
+    "Description": "Pulp cap-direct, (ex rest)",
+    "Cost": "$572.00"
+  },
+  {
+    "Procedure Code": "D3120",
+    "Abbrev Description": "PlpCpIndr",
+    "Description": "Pulp cap-indirect, (ex rest)",
+    "Cost": "$260.00"
+  },
+  {
+    "Procedure Code": "D3220",
+    "Abbrev Description": "TherPlpty",
+    "Description": "Therapeutic pulpotomy-pulp remv",
+    "Cost": "$1,560.00"
+  },
+  {
+    "Procedure Code": "D3221",
+    "Abbrev Description": "GrPulDbrd",
+    "Description": "Pulpal debridemnt-prim/perm th",
+    "Cost": "$702.00"
+  },
+  {
+    "Procedure Code": "D3230",
+    "Abbrev Description": "PulThA/Pr",
+    "Description": "Pulpal therapy-anterior,primary",
+    "Cost": "$291.00"
+  },
+  {
+    "Procedure Code": "D3240",
+    "Abbrev Description": "PulThP/Pr",
+    "Description": "Pulpal therapy-posterior, prim",
+    "Cost": "$203.00"
+  },
+  {
+    "Procedure Code": "D3310",
+    "Abbrev Description": "EndoThrAn",
+    "Description": "Endodontic therapy - anterior",
+    "Cost": "$2,028.00"
+  },
+  {
+    "Procedure Code": "D3320",
+    "Abbrev Description": "EndoThrPm",
+    "Description": "Endo therapy -premolar(ex rest)",
+    "Cost": "$2,392.00"
+  },
+  {
+    "Procedure Code": "D3330",
+    "Abbrev Description": "EndoThrMo",
+    "Description": "Endo therapy - molar (ex rest)",
+    "Cost": "$2,808.00"
+  },
+  {
+    "Procedure Code": "D3331",
+    "Abbrev Description": "TxRtCnOb",
+    "Description": "Treatmnt of root canal obstruct",
+    "Cost": "$364.00"
+  },
+  {
+    "Procedure Code": "D3332",
+    "Abbrev Description": "IncmpThrp",
+    "Description": "Incomplete endo therapy",
+    "Cost": "$1,040.00"
+  },
+  {
+    "Procedure Code": "D3333",
+    "Abbrev Description": "IntRtRpr",
+    "Description": "Int root repair of perf defects",
+    "Cost": "$385.00"
+  },
+  {
+    "Procedure Code": "D3346",
+    "Abbrev Description": "Retrt-Ant",
+    "Description": "Retreat, prev RCT - anterior",
+    "Cost": "$2,028.00"
+  },
+  {
+    "Procedure Code": "D3347",
+    "Abbrev Description": "Retrt-Pm",
+    "Description": "Retreat, prev RCT - premolar",
+    "Cost": "$2,340.00"
+  },
+  {
+    "Procedure Code": "D3348",
+    "Abbrev Description": "Retrt-Mol",
+    "Description": "Retreat, prev RCT - molar",
+    "Cost": "$2,834.00"
+  },
+  {
+    "Procedure Code": "D3351",
+    "Abbrev Description": "ApxRclIni",
+    "Description": "Apexification/recalcif, initial",
+    "Cost": "$1,560.00"
+  },
+  {
+    "Procedure Code": "D3352",
+    "Abbrev Description": "ApxRclInt",
+    "Description": "Apexification/recalcif, interim",
+    "Cost": "$1,664.00"
+  },
+  {
+    "Procedure Code": "D3353",
+    "Abbrev Description": "ApxRclFin",
+    "Description": "Apexification/recalcif, final",
+    "Cost": "$1,872.00"
+  },
+  {
+    "Procedure Code": "D3410",
+    "Abbrev Description": "ApctPrSrA",
+    "Description": "Apicoectomy/Periradic surg-ant",
+    "Cost": "$910.00"
+  },
+  {
+    "Procedure Code": "D3421",
+    "Abbrev Description": "ApctPm1Rt",
+    "Description": "Apicoectomy-premolar-1st root",
+    "Cost": "$1,040.00"
+  },
+  {
+    "Procedure Code": "D3425",
+    "Abbrev Description": "ApctPrMo1",
+    "Description": "Apicoect/Perirad-molar/1st root",
+    "Cost": "$2,150.00"
+  },
+  {
+    "Procedure Code": "D3426",
+    "Abbrev Description": "Apct+Rt",
+    "Description": "Apicoectomy (each + root)",
+    "Cost": "$750.00"
+  },
+  {
+    "Procedure Code": "D3430",
+    "Abbrev Description": "RetroFill",
+    "Description": "Retrograde filling-per root",
+    "Cost": "$450.00"
+  },
+  {
+    "Procedure Code": "D3450",
+    "Abbrev Description": "RtAmpPrRt",
+    "Description": "Root amputation-per root",
+    "Cost": "$619.00"
+  },
+  {
+    "Procedure Code": "D3460",
+    "Abbrev Description": "EndoEdsIm",
+    "Description": "Endodontic endosseous implant",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D3470",
+    "Abbrev Description": "IntRplISp",
+    "Description": "Intentional replant, inc splint",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D3910",
+    "Abbrev Description": "SrIslw/RD",
+    "Description": "Surg isolation of th w/rub dam",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D3920",
+    "Abbrev Description": "HemiNRtCn",
+    "Description": "Hemisection, no root can ther",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D3950",
+    "Abbrev Description": "CnPrpDwPs",
+    "Description": "Canal prep/fit of dowel/post",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D3999",
+    "Abbrev Description": "UnspEdoPr",
+    "Description": "Unspecified endo procedure, B/R",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D4210",
+    "Abbrev Description": "GingctQdr",
+    "Description": "Gingivectomy-4+ per quadrant",
+    "Cost": "$2,600.00"
+  },
+  {
+    "Procedure Code": "D4211",
+    "Abbrev Description": "GingctTh",
+    "Description": "Gingivectomy-1-3 per quadrant",
+    "Cost": "$2,600.00"
+  },
+  {
+    "Procedure Code": "D4230",
+    "Abbrev Description": "CrnEx4+",
+    "Description": "Anatomic crwn exp,4+/bnd th/qu",
+    "Cost": "$2,600.00"
+  },
+  {
+    "Procedure Code": "D4231",
+    "Abbrev Description": "CrnEx1-3",
+    "Description": "Anatomic crwn exp,1-3/bnd th/qu",
+    "Cost": "$2,600.00"
+  },
+  {
+    "Procedure Code": "D4240",
+    "Abbrev Description": "GnFlInRtP",
+    "Description": "Ging flap,root pln, 4+ per quad",
+    "Cost": "$2,600.00"
+  },
+  {
+    "Procedure Code": "D4241",
+    "Abbrev Description": "GnFlPl1-3",
+    "Description": "Ging flap rt pln 1-3 per quad",
+    "Cost": "$2,600.00"
+  },
+  {
+    "Procedure Code": "D4245",
+    "Abbrev Description": "ApicPosFl",
+    "Description": "Apically positioned flap",
+    "Cost": "$2,600.00"
+  },
+  {
+    "Procedure Code": "D4249",
+    "Abbrev Description": "CrnLngH&S",
+    "Description": "Gum Lift",
+    "Cost": "$1,768.00"
+  },
+  {
+    "Procedure Code": "D4260",
+    "Abbrev Description": "OssSurQ",
+    "Description": "Osseous surgery- 4+ per quad",
+    "Cost": "$2,600.00"
+  },
+  {
+    "Procedure Code": "D4261",
+    "Abbrev Description": "OssSur1-3",
+    "Description": "Osseous surgery- 1-3 per quad",
+    "Cost": "$1,872.00"
+  },
+  {
+    "Procedure Code": "D4263",
+    "Abbrev Description": "BnRpGr1st",
+    "Description": "Bone replace graft-1st site/qu",
+    "Cost": "$1,872.00"
+  },
+  {
+    "Procedure Code": "D4264",
+    "Abbrev Description": "BnRpGrEa+",
+    "Description": "Bone replace graft-each add/qu",
+    "Cost": "$1,872.00"
+  },
+  {
+    "Procedure Code": "D4265",
+    "Abbrev Description": "SfTssRgPr",
+    "Description": "Bio mat, sft&osseous tiss regen",
+    "Cost": "$468.00"
+  },
+  {
+    "Procedure Code": "D4266",
+    "Abbrev Description": "TissRgPer",
+    "Description": "Guided tiss regen-resorb-per",
+    "Cost": "$1,248.00"
+  },
+  {
+    "Procedure Code": "D4267",
+    "Abbrev Description": "TissRgNr",
+    "Description": "Guided tiss regen-nonresorb-per",
+    "Cost": "$832.00"
+  },
+  {
+    "Procedure Code": "D4268",
+    "Abbrev Description": "SurgRevTh",
+    "Description": "Surg revision proc, per tooth",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D4270",
+    "Abbrev Description": "PedsfTsGr",
+    "Description": "Pedicle soft tissue graft proc",
+    "Cost": "$2,392.00"
+  },
+  {
+    "Procedure Code": "D4273",
+    "Abbrev Description": "AutGnGrf1",
+    "Description": "Autgen con tiss graft, 1st th",
+    "Cost": "$2,600.00"
+  },
+  {
+    "Procedure Code": "D4274",
+    "Abbrev Description": "MesDistWg",
+    "Description": "Mesial/distal wedge procedure",
+    "Cost": "$619.00"
+  },
+  {
+    "Procedure Code": "D4275",
+    "Abbrev Description": "SftTsGrft",
+    "Description": "NonAutgen con tis grft, 1st th",
+    "Cost": "$2,600.00"
+  },
+  {
+    "Procedure Code": "D4276",
+    "Abbrev Description": "CmPdsfTGr",
+    "Description": "Combined graft, per tooth",
+    "Cost": "$1,664.00"
+  },
+  {
+    "Procedure Code": "D4320",
+    "Abbrev Description": "ProvSplIn",
+    "Description": "Provisional splinting-intracor",
+    "Cost": "$52.00"
+  },
+  {
+    "Procedure Code": "D4321",
+    "Abbrev Description": "ProvSplEx",
+    "Description": "Provisional splinting-extracor",
+    "Cost": "$52.00"
+  },
+  {
+    "Procedure Code": "D4341",
+    "Abbrev Description": "Scaling",
+    "Description": "Scaling Root Plane",
+    "Cost": "$832.00"
+  },
+  {
+    "Procedure Code": "D4342",
+    "Abbrev Description": "PerScl1-3",
+    "Description": "Perio scale/root pln-1-3th,quad",
+    "Cost": "$624.00"
+  },
+  {
+    "Procedure Code": "D4355",
+    "Abbrev Description": "FullDebrd",
+    "Description": "Full mouth debridemnt,eval/diag",
+    "Cost": "$468.00"
+  },
+  {
+    "Procedure Code": "D4381",
+    "Abbrev Description": "Chemo",
+    "Description": "Local deliv antimicrb ag-th B/R",
+    "Cost": "$78.00"
+  },
+  {
+    "Procedure Code": "D4910",
+    "Abbrev Description": "PerMaint",
+    "Description": "Periodontal maintenance",
+    "Cost": "$312.00"
+  },
+  {
+    "Procedure Code": "D4920",
+    "Abbrev Description": "UnscDrChg",
+    "Description": "Unscheduled dressing change",
+    "Cost": "$52.00"
+  },
+  {
+    "Procedure Code": "D4999",
+    "Abbrev Description": "UnspcPerP",
+    "Description": "Unspecified perio proced, B/R",
+    "Cost": "$52.00"
+  },
+  {
+    "Procedure Code": "D5110",
+    "Abbrev Description": "ComUpDen",
+    "Description": "Complete denture - maxillary",
+    "Cost": "$6,760.00"
+  },
+  {
+    "Procedure Code": "D5120",
+    "Abbrev Description": "ComLowDen",
+    "Description": "Complete denture - mandibular",
+    "Cost": "$6,760.00"
+  },
+  {
+    "Procedure Code": "D5130",
+    "Abbrev Description": "ImmUpDen",
+    "Description": "Immediate denture - maxillary",
+    "Cost": "$3,640.00"
+  },
+  {
+    "Procedure Code": "D5140",
+    "Abbrev Description": "ImmLowDen",
+    "Description": "Immediate denture - mandibular",
+    "Cost": "$3,640.00"
+  },
+  {
+    "Procedure Code": "D5211",
+    "Abbrev Description": "UpParRsBs",
+    "Description": "Maxillary partial - resin base",
+    "Cost": "$2,600.00"
+  },
+  {
+    "Procedure Code": "D5212",
+    "Abbrev Description": "LwParRsBs",
+    "Description": "Mandibular partial - resin base",
+    "Cost": "$3,640.00"
+  },
+  {
+    "Procedure Code": "D5213",
+    "Abbrev Description": "UpParMtBs",
+    "Description": "Maxil partl-cast metal w/resin",
+    "Cost": "$3,640.00"
+  },
+  {
+    "Procedure Code": "D5214",
+    "Abbrev Description": "LwParMtBs",
+    "Description": "Mand partl-cast metal w/resin",
+    "Cost": "$3,640.00"
+  },
+  {
+    "Procedure Code": "D5225",
+    "Abbrev Description": "MxPrtFlxB",
+    "Description": "Maxillary partial-flexible base",
+    "Cost": "$2,600.00"
+  },
+  {
+    "Procedure Code": "D5226",
+    "Abbrev Description": "MnPrtFlxB",
+    "Description": "Mandibul partial-flexible base",
+    "Cost": "$2,600.00"
+  },
+  {
+    "Procedure Code": "D5281",
+    "Abbrev Description": "RmvUniPDn",
+    "Description": "Removable unilat part denture",
+    "Cost": "$1,560.00"
+  },
+  {
+    "Procedure Code": "D5410",
+    "Abbrev Description": "AdjCmDnUp",
+    "Description": "Adjust complete denture-maxil",
+    "Cost": "$135.00"
+  },
+  {
+    "Procedure Code": "D5411",
+    "Abbrev Description": "AdjCmDnLw",
+    "Description": "Adjust complete denture-mand",
+    "Cost": "$203.00"
+  },
+  {
+    "Procedure Code": "D5421",
+    "Abbrev Description": "AdjPrDnUp",
+    "Description": "Adjust partial denture-maxil",
+    "Cost": "$203.00"
+  },
+  {
+    "Procedure Code": "D5422",
+    "Abbrev Description": "AdjPrDnLw",
+    "Description": "Adjust partial denture-mand",
+    "Cost": "$140.00"
+  },
+  {
+    "Procedure Code": "D5510",
+    "Abbrev Description": "RprCmDnBs",
+    "Description": "Repair complete denture base",
+    "Cost": "$2,080.00"
+  },
+  {
+    "Procedure Code": "D5520",
+    "Abbrev Description": "RplThCmDn",
+    "Description": "Replace teeth-comp dent (ea th)",
+    "Cost": "$468.00"
+  },
+  {
+    "Procedure Code": "D5610",
+    "Abbrev Description": "RprRsSdBs",
+    "Description": "Repair resin denture base",
+    "Cost": "$224.00"
+  },
+  {
+    "Procedure Code": "D5620",
+    "Abbrev Description": "RprCstFrm",
+    "Description": "Repair cast framework",
+    "Cost": "$281.00"
+  },
+  {
+    "Procedure Code": "D5630",
+    "Abbrev Description": "RepClsp",
+    "Description": "Rpr or rplce brkn clasp, per th",
+    "Cost": "$260.00"
+  },
+  {
+    "Procedure Code": "D5640",
+    "Abbrev Description": "RepBrkTh",
+    "Description": "Replace broken teeth-per tooth",
+    "Cost": "$203.00"
+  },
+  {
+    "Procedure Code": "D5650",
+    "Abbrev Description": "AddThExDn",
+    "Description": "Add tooth to exist part denture",
+    "Cost": "$234.00"
+  },
+  {
+    "Procedure Code": "D5660",
+    "Abbrev Description": "AddClsp",
+    "Description": "Add clasp, exst prt dent per th",
+    "Cost": "$260.00"
+  },
+  {
+    "Procedure Code": "D5670",
+    "Abbrev Description": "RpAllTxMx",
+    "Description": "Replace all th & acrylic-maxil",
+    "Cost": "$624.00"
+  },
+  {
+    "Procedure Code": "D5671",
+    "Abbrev Description": "RpAllTxMn",
+    "Description": "Replace all th & acrylic-mand",
+    "Cost": "$676.00"
+  },
+  {
+    "Procedure Code": "D5710",
+    "Abbrev Description": "RebsCUpDn",
+    "Description": "Rebase complete maxil denture",
+    "Cost": "$494.00"
+  },
+  {
+    "Procedure Code": "D5711",
+    "Abbrev Description": "RebsCLwDn",
+    "Description": "Rebase complete mand denture",
+    "Cost": "$494.00"
+  },
+  {
+    "Procedure Code": "D5720",
+    "Abbrev Description": "RebsUPPDn",
+    "Description": "Rebase maxil partial denture",
+    "Cost": "$536.00"
+  },
+  {
+    "Procedure Code": "D5721",
+    "Abbrev Description": "RebsLwPDn",
+    "Description": "Rebase mand partial denture",
+    "Cost": "$536.00"
+  },
+  {
+    "Procedure Code": "D5730",
+    "Abbrev Description": "RlnCmUpCh",
+    "Description": "Reline complete maxil-chairside",
+    "Cost": "$348.00"
+  },
+  {
+    "Procedure Code": "D5731",
+    "Abbrev Description": "RlnCmLwCh",
+    "Description": "Reline complete mand-chairside",
+    "Cost": "$348.00"
+  },
+  {
+    "Procedure Code": "D5740",
+    "Abbrev Description": "RlnUpPrCh",
+    "Description": "Reline maxil partial-chairside",
+    "Cost": "$333.00"
+  },
+  {
+    "Procedure Code": "D5741",
+    "Abbrev Description": "RlnLwPrCh",
+    "Description": "Reline mand partial-chairside",
+    "Cost": "$333.00"
+  },
+  {
+    "Procedure Code": "D5750",
+    "Abbrev Description": "RlnCmUpLb",
+    "Description": "Reline complete maxillary (lab)",
+    "Cost": "$468.00"
+  },
+  {
+    "Procedure Code": "D5751",
+    "Abbrev Description": "RlnCmLwLb",
+    "Description": "Reline complete mand (lab)",
+    "Cost": "$1,560.00"
+  },
+  {
+    "Procedure Code": "D5760",
+    "Abbrev Description": "RlnUpPrLb",
+    "Description": "Reline maxillary partial (lab)",
+    "Cost": "$468.00"
+  },
+  {
+    "Procedure Code": "D5761",
+    "Abbrev Description": "RlnLwPrLb",
+    "Description": "Reline mandibular partial (lab)",
+    "Cost": "$468.00"
+  },
+  {
+    "Procedure Code": "D5810",
+    "Abbrev Description": "IntCmDnUp",
+    "Description": "Interim comp denture (maxil)",
+    "Cost": "$806.00"
+  },
+  {
+    "Procedure Code": "D5811",
+    "Abbrev Description": "IntCmDnLw",
+    "Description": "Interim comp denture (mand)",
+    "Cost": "$806.00"
+  },
+  {
+    "Procedure Code": "D5820",
+    "Abbrev Description": "IntPrDnUp",
+    "Description": "Interim partial denture (maxil)",
+    "Cost": "$619.00"
+  },
+  {
+    "Procedure Code": "D5821",
+    "Abbrev Description": "IntPrDnLw",
+    "Description": "Interim partial denture (mand)",
+    "Cost": "$619.00"
+  },
+  {
+    "Procedure Code": "D5850",
+    "Abbrev Description": "TisConUp",
+    "Description": "Tissue condition, maxillary",
+    "Cost": "$218.00"
+  },
+  {
+    "Procedure Code": "D5851",
+    "Abbrev Description": "TisConLw",
+    "Description": "Tissue condition, mandibular",
+    "Cost": "$218.00"
+  },
+  {
+    "Procedure Code": "D5862",
+    "Abbrev Description": "PrecnAtt",
+    "Description": "Precision attachment, B/R",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D5867",
+    "Abbrev Description": "RplPrecAt",
+    "Description": "Replcmt prec attachmt-part/full",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D5875",
+    "Abbrev Description": "ModRmPros",
+    "Description": "Mod of remvble prosth-post surg",
+    "Cost": "$515.00"
+  },
+  {
+    "Procedure Code": "D5899",
+    "Abbrev Description": "UnspcRmPr",
+    "Description": "Unspecified remove prosth, B/R",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D5911",
+    "Abbrev Description": "FacMoulSc",
+    "Description": "Facial moulage (sectional)",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D5912",
+    "Abbrev Description": "FacMoulCm",
+    "Description": "Facial moulage (complete)",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D5913",
+    "Abbrev Description": "NasProsth",
+    "Description": "Nasal prosthesis",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D5914",
+    "Abbrev Description": "AurProsth",
+    "Description": "Auricular prosthesis",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D5915",
+    "Abbrev Description": "OrbProsth",
+    "Description": "Orbital prosthesis",
+    "Cost": "$827.00"
+  },
+  {
+    "Procedure Code": "D5916",
+    "Abbrev Description": "OcuProsth",
+    "Description": "Ocular prosthesis",
+    "Cost": "$827.00"
+  },
+  {
+    "Procedure Code": "D5919",
+    "Abbrev Description": "FacProsth",
+    "Description": "Facial prosthesis",
+    "Cost": "$827.00"
+  },
+  {
+    "Procedure Code": "D5922",
+    "Abbrev Description": "NasSepPro",
+    "Description": "Nasal septal prosthesis",
+    "Cost": "$827.00"
+  },
+  {
+    "Procedure Code": "D5923",
+    "Abbrev Description": "OcuProsIn",
+    "Description": "Ocular prosthesis, interim",
+    "Cost": "$827.00"
+  },
+  {
+    "Procedure Code": "D5924",
+    "Abbrev Description": "CranPros",
+    "Description": "Cranial prosthesis",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D5925",
+    "Abbrev Description": "FacAugImp",
+    "Description": "Facial augmentat implant,prosth",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D5926",
+    "Abbrev Description": "NasProsRp",
+    "Description": "Nasal prosthesis, replacement",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D5927",
+    "Abbrev Description": "AurProRep",
+    "Description": "Auricular prosthesis,replacemen",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D5928",
+    "Abbrev Description": "OrbProRep",
+    "Description": "Orbital prosthesis, replacement",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D5929",
+    "Abbrev Description": "FacProRep",
+    "Description": "Facial prosthesis, replacement",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D5931",
+    "Abbrev Description": "ObtProSur",
+    "Description": "Obturator prosthesis, surgical",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D5932",
+    "Abbrev Description": "ObtProDef",
+    "Description": "Obturator prosthesis,definitive",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D5933",
+    "Abbrev Description": "ObtProMod",
+    "Description": "Obturator prosthesis, modificat",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D5934",
+    "Abbrev Description": "ManResFla",
+    "Description": "Mandibular resection w/ flange",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D5935",
+    "Abbrev Description": "ManRes",
+    "Description": "Mandibular resection w/o flange",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D5936",
+    "Abbrev Description": "ObtProInt",
+    "Description": "Obturator prosthesis, interim",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D5937",
+    "Abbrev Description": "TrisAppli",
+    "Description": "Trismus appliance (not TMD)",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D5951",
+    "Abbrev Description": "FeedAid",
+    "Description": "Feeding aid",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D5952",
+    "Abbrev Description": "SpchAidPd",
+    "Description": "Speech aid prosthesis,pediatric",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D5953",
+    "Abbrev Description": "SpchAidAd",
+    "Description": "Speech aid prosthesis, adult",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D5954",
+    "Abbrev Description": "PalAugPro",
+    "Description": "Palatal augmentation prosthesis",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D5955",
+    "Abbrev Description": "PlLftPrDf",
+    "Description": "Palatal lift prosth, definitive",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D5958",
+    "Abbrev Description": "PlLftPrIn",
+    "Description": "Palatal lift prosthesis,interim",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D5959",
+    "Abbrev Description": "PlLftPrMd",
+    "Description": "Palatal lift prosth, modificat",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D5960",
+    "Abbrev Description": "SpchAdPrM",
+    "Description": "Speech aid prosth, modification",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D5982",
+    "Abbrev Description": "SurgStent",
+    "Description": "Surgical stent",
+    "Cost": "$676.00"
+  },
+  {
+    "Procedure Code": "D5983",
+    "Abbrev Description": "RadtnCarr",
+    "Description": "Radiation carrier",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D5984",
+    "Abbrev Description": "RadtnShld",
+    "Description": "Radiation shield",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D5985",
+    "Abbrev Description": "RadtnCnLc",
+    "Description": "Radiation cone locator",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D5986",
+    "Abbrev Description": "FlrGelCar",
+    "Description": "Fluoride gel carrier",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D5987",
+    "Abbrev Description": "CommSplnt",
+    "Description": "Commissure splint",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D5988",
+    "Abbrev Description": "SurgSplnt",
+    "Description": "Surgical splint",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D5999",
+    "Abbrev Description": "UnspcMxPr",
+    "Description": "Unspec maxillofacial prosth B/R",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D6010",
+    "Abbrev Description": "Implant",
+    "Description": "Surg place implant: endosteal",
+    "Cost": "$2,392.00"
+  },
+  {
+    "Procedure Code": "D6012",
+    "Abbrev Description": "PlcIntImp",
+    "Description": "Plcmnt of intrm impl: endosteal",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D6040",
+    "Abbrev Description": "SurEpoImp",
+    "Description": "Surgic place: eposteal implant",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D6050",
+    "Abbrev Description": "TrnsImpln",
+    "Description": "Surg place: transosteal implant",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D6055",
+    "Abbrev Description": "ImpltCnBr",
+    "Description": "Dent implant sup connecting bar",
+    "Cost": "$808.00"
+  },
+  {
+    "Procedure Code": "D6056",
+    "Abbrev Description": "PrefabAbt",
+    "Description": "Prefab abutment-incl placement",
+    "Cost": "$645.00"
+  },
+  {
+    "Procedure Code": "D6057",
+    "Abbrev Description": "CustomAbt",
+    "Description": "Custom abutment-incl placement",
+    "Cost": "$1,248.00"
+  },
+  {
+    "Procedure Code": "D6058",
+    "Abbrev Description": "ImplanCrn",
+    "Description": "Abutment supported porc/cer crn",
+    "Cost": "$3,848.00"
+  },
+  {
+    "Procedure Code": "D6059",
+    "Abbrev Description": "AbtPrFCnH",
+    "Description": "Abtmt supp porc fused to hi-nob",
+    "Cost": "$3,848.00"
+  },
+  {
+    "Procedure Code": "D6060",
+    "Abbrev Description": "AbtPrFCnB",
+    "Description": "Abtmt supp porc fused-base metl",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D6061",
+    "Abbrev Description": "AbtPrFCnN",
+    "Description": "Abtmt supp porc fused-mtl crown",
+    "Cost": "$1,560.00"
+  },
+  {
+    "Procedure Code": "D6062",
+    "Abbrev Description": "AbtCsCnHN",
+    "Description": "Abtmt supp cast mtl crown-hinob",
+    "Cost": "$1,768.00"
+  },
+  {
+    "Procedure Code": "D6063",
+    "Abbrev Description": "AbtCsCnBs",
+    "Description": "Abtmt supp cast mtl crown-base",
+    "Cost": "$1,508.00"
+  },
+  {
+    "Procedure Code": "D6064",
+    "Abbrev Description": "AbtCsCnNb",
+    "Description": "Abtmt supp cast mtl crown-noble",
+    "Cost": "$1,534.00"
+  },
+  {
+    "Procedure Code": "D6065",
+    "Abbrev Description": "ImplPrCrn",
+    "Description": "Implant supp porc/cer crown",
+    "Cost": "$1,638.00"
+  },
+  {
+    "Procedure Code": "D6066",
+    "Abbrev Description": "ImpPrFMCn",
+    "Description": "Implant supp porc fused mtl crn",
+    "Cost": "$1,638.00"
+  },
+  {
+    "Procedure Code": "D6067",
+    "Abbrev Description": "ImplMCrn",
+    "Description": "Implant supported metal crown",
+    "Cost": "$1,846.00"
+  },
+  {
+    "Procedure Code": "D6068",
+    "Abbrev Description": "AbtPrcFPD",
+    "Description": "Abtmt supp ret for porc/cer FPD",
+    "Cost": "$3,848.00"
+  },
+  {
+    "Procedure Code": "D6069",
+    "Abbrev Description": "AbtPFPDHi",
+    "Description": "Abut sup ret-porc fsd mtl FPDhn",
+    "Cost": "$1,846.00"
+  },
+  {
+    "Procedure Code": "D6070",
+    "Abbrev Description": "AbtPFPDBs",
+    "Description": "Abut sup ret-porc fsd mtl FPDbm",
+    "Cost": "$1,508.00"
+  },
+  {
+    "Procedure Code": "D6071",
+    "Abbrev Description": "AbtPFPDNb",
+    "Description": "Abut sup ret-porc fsd mtl FPDno",
+    "Cost": "$1,508.00"
+  },
+  {
+    "Procedure Code": "D6072",
+    "Abbrev Description": "AbCsFPDHi",
+    "Description": "Abut sup ret-cast mtl FPD-hinob",
+    "Cost": "$1,846.00"
+  },
+  {
+    "Procedure Code": "D6073",
+    "Abbrev Description": "AbCsFPDBs",
+    "Description": "Abut sup ret-cast mtl FPD-base",
+    "Cost": "$1,560.00"
+  },
+  {
+    "Procedure Code": "D6074",
+    "Abbrev Description": "AbCsFPDNb",
+    "Description": "Abut sup ret-cast mtl FPD-noble",
+    "Cost": "$1,560.00"
+  },
+  {
+    "Procedure Code": "D6075",
+    "Abbrev Description": "ImpCerFPD",
+    "Description": "Implant supp ret-ceramic FPD",
+    "Cost": "$1,638.00"
+  },
+  {
+    "Procedure Code": "D6076",
+    "Abbrev Description": "ImpPrcFPD",
+    "Description": "Implnt supp ret-prc fuse mtlFPD",
+    "Cost": "$1,638.00"
+  },
+  {
+    "Procedure Code": "D6077",
+    "Abbrev Description": "ImpCsMFPD",
+    "Description": "Implant supp ret-cast metal FPD",
+    "Cost": "$1,846.00"
+  },
+  {
+    "Procedure Code": "D6080",
+    "Abbrev Description": "ImpltMtPr",
+    "Description": "Implant maintenance procedures",
+    "Cost": "$702.00"
+  },
+  {
+    "Procedure Code": "D6090",
+    "Abbrev Description": "ReprImplt",
+    "Description": "Repair implant sup prosth, B/R",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D6091",
+    "Abbrev Description": "RplAmtPro",
+    "Description": "Rpl attchmt imp/abt sup prosth",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D6092",
+    "Abbrev Description": "RecSptCrn",
+    "Description": "Recement/bnd imp/abut sup crwn",
+    "Cost": "$676.00"
+  },
+  {
+    "Procedure Code": "D6093",
+    "Abbrev Description": "RecSptDnt",
+    "Description": "Recement/bnd impl/abut sup FPD",
+    "Cost": "$234.00"
+  },
+  {
+    "Procedure Code": "D6094",
+    "Abbrev Description": "AbtSCrnTi",
+    "Description": "Abutment supp crown - titanium",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D6095",
+    "Abbrev Description": "RepImAbt",
+    "Description": "Repair implant abutment, B/R",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D6100",
+    "Abbrev Description": "ImpltRemv",
+    "Description": "Implant removal, by report",
+    "Cost": "$1,092.00"
+  },
+  {
+    "Procedure Code": "D6190",
+    "Abbrev Description": "RadSrgImI",
+    "Description": "Radiograph/surg impl index B/R",
+    "Cost": "$1,560.00"
+  },
+  {
+    "Procedure Code": "D6194",
+    "Abbrev Description": "AbCsFPDTi",
+    "Description": "Abut sup ret-crwn for FPD-titan",
+    "Cost": "$1,768.00"
+  },
+  {
+    "Procedure Code": "D6199",
+    "Abbrev Description": "UnspcImpl",
+    "Description": "Unspecified implant proced, B/R",
+    "Cost": "$2,080.00"
+  },
+  {
+    "Procedure Code": "D6205",
+    "Abbrev Description": "PntcIndRC",
+    "Description": "Pontic-indirect res based comp",
+    "Cost": "$705.00"
+  },
+  {
+    "Procedure Code": "D6210",
+    "Abbrev Description": "PntcCtHNM",
+    "Description": "Pontic-cast high noble metal",
+    "Cost": "$832.00"
+  },
+  {
+    "Procedure Code": "D6211",
+    "Abbrev Description": "PntcCtPdB",
+    "Description": "Pontic-cast predominantly base",
+    "Cost": "$1,040.00"
+  },
+  {
+    "Procedure Code": "D6212",
+    "Abbrev Description": "PntcCtNM",
+    "Description": "Pontic-cast noble metal",
+    "Cost": "$1,066.00"
+  },
+  {
+    "Procedure Code": "D6214",
+    "Abbrev Description": "PntcTitan",
+    "Description": "Pontic-titanium",
+    "Cost": "$1,170.00"
+  },
+  {
+    "Procedure Code": "D6240",
+    "Abbrev Description": "PntcPrFHN",
+    "Description": "Pontic-porcelain fused to hnob",
+    "Cost": "$2,392.00"
+  },
+  {
+    "Procedure Code": "D6241",
+    "Abbrev Description": "PntcPrFBs",
+    "Description": "Pontic-porcelain fused to base",
+    "Cost": "$1,066.00"
+  },
+  {
+    "Procedure Code": "D6242",
+    "Abbrev Description": "PntcPrFNb",
+    "Description": "Pontic-porcelain fused to nobl",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D6245",
+    "Abbrev Description": "PntcPrCer",
+    "Description": "Pontic-porcelain/ceramic",
+    "Cost": "$3,848.00"
+  },
+  {
+    "Procedure Code": "D6250",
+    "Abbrev Description": "PntcRsHNM",
+    "Description": "Pontic-resin w/ high noble met",
+    "Cost": "$1,144.00"
+  },
+  {
+    "Procedure Code": "D6251",
+    "Abbrev Description": "PntcRsPdB",
+    "Description": "Pontic-resin w/ predomnt base",
+    "Cost": "$3,640.00"
+  },
+  {
+    "Procedure Code": "D6252",
+    "Abbrev Description": "PntcRsNM",
+    "Description": "Pontic-resin with noble metal",
+    "Cost": "$1,144.00"
+  },
+  {
+    "Procedure Code": "D6253",
+    "Abbrev Description": "ProvPntc",
+    "Description": "Provisional pontic",
+    "Cost": "$348.00"
+  },
+  {
+    "Procedure Code": "D6545",
+    "Abbrev Description": "RetCast",
+    "Description": "Retainer-cast for resin bonded",
+    "Cost": "$546.00"
+  },
+  {
+    "Procedure Code": "D6548",
+    "Abbrev Description": "RetPorc",
+    "Description": "Ret-porc/cer-resin bnd fxd pros",
+    "Cost": "$1,196.00"
+  },
+  {
+    "Procedure Code": "D6600",
+    "Abbrev Description": "InlPrCr2s",
+    "Description": "Inlay-porcelain/ceramic, 2 surf",
+    "Cost": "$1,035.00"
+  },
+  {
+    "Procedure Code": "D6601",
+    "Abbrev Description": "InPrCr3+s",
+    "Description": "Inlay-porcelain/ceramic, 3+surf",
+    "Cost": "$1,144.00"
+  },
+  {
+    "Procedure Code": "D6602",
+    "Abbrev Description": "InlHiNb2s",
+    "Description": "Inlay-cast high noble met,2surf",
+    "Cost": "$1,092.00"
+  },
+  {
+    "Procedure Code": "D6603",
+    "Abbrev Description": "InHiNb3+s",
+    "Description": "Inlay-cast high nob met, 3+surf",
+    "Cost": "$1,118.00"
+  },
+  {
+    "Procedure Code": "D6604",
+    "Abbrev Description": "InlBase2s",
+    "Description": "Inlay-cast predomnt base, 2surf",
+    "Cost": "$1,092.00"
+  },
+  {
+    "Procedure Code": "D6605",
+    "Abbrev Description": "InBase3+s",
+    "Description": "Inlay-cast predomnt base,3+surf",
+    "Cost": "$1,118.00"
+  },
+  {
+    "Procedure Code": "D6606",
+    "Abbrev Description": "InlNobl2s",
+    "Description": "Inlay-cast noble metal, 2 surf",
+    "Cost": "$1,092.00"
+  },
+  {
+    "Procedure Code": "D6607",
+    "Abbrev Description": "InNobl3+s",
+    "Description": "Inlay-cast noble metal, 3+ surf",
+    "Cost": "$1,118.00"
+  },
+  {
+    "Procedure Code": "D6608",
+    "Abbrev Description": "OnlPrCr2s",
+    "Description": "Onlay-porcelain/ceramic, 2 surf",
+    "Cost": "$1,196.00"
+  },
+  {
+    "Procedure Code": "D6609",
+    "Abbrev Description": "OnPrCr3+s",
+    "Description": "Onlay-porcelain/ceramic, 3+surf",
+    "Cost": "$1,222.00"
+  },
+  {
+    "Procedure Code": "D6610",
+    "Abbrev Description": "OnlHiNb2s",
+    "Description": "Onlay-cast high noble met,2surf",
+    "Cost": "$1,144.00"
+  },
+  {
+    "Procedure Code": "D6611",
+    "Abbrev Description": "OnHiNb3+s",
+    "Description": "Onlay-cast high nob met, 3+surf",
+    "Cost": "$1,248.00"
+  },
+  {
+    "Procedure Code": "D6612",
+    "Abbrev Description": "OnlBase2s",
+    "Description": "Onlay-cast predomnt base, 2surf",
+    "Cost": "$1,144.00"
+  },
+  {
+    "Procedure Code": "D6613",
+    "Abbrev Description": "OnBase3+s",
+    "Description": "Onlay-cast predomnt base,3+surf",
+    "Cost": "$1,248.00"
+  },
+  {
+    "Procedure Code": "D6614",
+    "Abbrev Description": "OnlNobl2s",
+    "Description": "Onlay-cast noble metal, 2 surf",
+    "Cost": "$1,144.00"
+  },
+  {
+    "Procedure Code": "D6615",
+    "Abbrev Description": "OnNobl3+s",
+    "Description": "Onlay-cast noble metal, 3+ surf",
+    "Cost": "$1,248.00"
+  },
+  {
+    "Procedure Code": "D6624",
+    "Abbrev Description": "InlTitanm",
+    "Description": "Inlay-titanium",
+    "Cost": "$1,144.00"
+  },
+  {
+    "Procedure Code": "D6634",
+    "Abbrev Description": "OnlTitanm",
+    "Description": "Onlay-titanium",
+    "Cost": "$1,248.00"
+  },
+  {
+    "Procedure Code": "D6710",
+    "Abbrev Description": "CrnInRsCm",
+    "Description": "Crown-indirect resin composite",
+    "Cost": "$790.00"
+  },
+  {
+    "Procedure Code": "D6720",
+    "Abbrev Description": "CrnRsHN",
+    "Description": "Crown-resin w/high noble metal",
+    "Cost": "$1,144.00"
+  },
+  {
+    "Procedure Code": "D6721",
+    "Abbrev Description": "CrnRsBM",
+    "Description": "Crown-resin w/predom base metal",
+    "Cost": "$1,024.00"
+  },
+  {
+    "Procedure Code": "D6722",
+    "Abbrev Description": "CrnRsNM",
+    "Description": "Crown-resin with noble metal",
+    "Cost": "$1,066.00"
+  },
+  {
+    "Procedure Code": "D6740",
+    "Abbrev Description": "CrnPorCer",
+    "Description": "Crown-porcelain/ceramic",
+    "Cost": "$3,848.00"
+  },
+  {
+    "Procedure Code": "D6750",
+    "Abbrev Description": "CrnPorFHn",
+    "Description": "Crown-porcelain fused-hi noble",
+    "Cost": "$2,392.00"
+  },
+  {
+    "Procedure Code": "D6751",
+    "Abbrev Description": "CrnPorFBa",
+    "Description": "Crown-porcelain fused-base mtl",
+    "Cost": "$3,640.00"
+  },
+  {
+    "Procedure Code": "D6752",
+    "Abbrev Description": "CrnPorFNb",
+    "Description": "Crown-porcelain fused-noble mtl",
+    "Cost": "$1,118.00"
+  },
+  {
+    "Procedure Code": "D6780",
+    "Abbrev Description": "Crn3/4HiN",
+    "Description": "Crown-3/4 cast high noble metal",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D6781",
+    "Abbrev Description": "Cn3/4CsBs",
+    "Description": "Crown-3/4 cast most base metal",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D6782",
+    "Abbrev Description": "RtCn3/4Nb",
+    "Description": "Crown-3/4 cast noble metal",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D6783",
+    "Abbrev Description": "RtCn3/4Pr",
+    "Description": "Crown-3/4 porcelain/ceramic",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D6790",
+    "Abbrev Description": "RtCrnFCHn",
+    "Description": "Retainer crn-full cast hi nob",
+    "Cost": "$1,248.00"
+  },
+  {
+    "Procedure Code": "D6791",
+    "Abbrev Description": "RtCrnFCBs",
+    "Description": "Retainer crn-full cast base",
+    "Cost": "$1,040.00"
+  },
+  {
+    "Procedure Code": "D6792",
+    "Abbrev Description": "RtCrnFCNm",
+    "Description": "Retainer crn-full cast nob met",
+    "Cost": "$1,144.00"
+  },
+  {
+    "Procedure Code": "D6793",
+    "Abbrev Description": "PrvRetCrn",
+    "Description": "Provisional retainer crown",
+    "Cost": "$364.00"
+  },
+  {
+    "Procedure Code": "D6794",
+    "Abbrev Description": "RtCrnTitn",
+    "Description": "Retainer crown-titanium",
+    "Cost": "$1,248.00"
+  },
+  {
+    "Procedure Code": "D6920",
+    "Abbrev Description": "ConectBar",
+    "Description": "Connector bar",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D6930",
+    "Abbrev Description": "RcmntPrtl",
+    "Description": "Recement/bnd fxd part denture",
+    "Cost": "$208.00"
+  },
+  {
+    "Procedure Code": "D6940",
+    "Abbrev Description": "StressBrk",
+    "Description": "Stress breaker",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D6950",
+    "Abbrev Description": "PrecAttac",
+    "Description": "Precision attachment",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D6980",
+    "Abbrev Description": "BridgeRep",
+    "Description": "Bridge Repair, Material Failure",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D6985",
+    "Abbrev Description": "PedPrtDen",
+    "Description": "Pediatric part'l denture, fixed",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D6999",
+    "Abbrev Description": "UnspcFxPr",
+    "Description": "Unspec fixed prosth proced, B/R",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7111",
+    "Abbrev Description": "CorRemPrm",
+    "Description": "Extraction crnl remnts-prim th",
+    "Cost": "$520.00"
+  },
+  {
+    "Procedure Code": "D7140",
+    "Abbrev Description": "SimpleExo",
+    "Description": "Tooth Extraction",
+    "Cost": "$884.00"
+  },
+  {
+    "Procedure Code": "D7210",
+    "Abbrev Description": "Extract",
+    "Description": "Extract, erupted th, rem oth",
+    "Cost": "$1,300.00"
+  },
+  {
+    "Procedure Code": "D7220",
+    "Abbrev Description": "ExoSofTis",
+    "Description": "Extraction-impacted/soft tis",
+    "Cost": "$1,300.00"
+  },
+  {
+    "Procedure Code": "D7230",
+    "Abbrev Description": "ExoPtlBon",
+    "Description": "Extraction-impacted/part bony",
+    "Cost": "$1,300.00"
+  },
+  {
+    "Procedure Code": "D7240",
+    "Abbrev Description": "ExoCmpBon",
+    "Description": "Extraction-impacted/compl bony",
+    "Cost": "$1,300.00"
+  },
+  {
+    "Procedure Code": "D7241",
+    "Abbrev Description": "RmvImpCmB",
+    "Description": "Remov impact-comp bony w/ comp",
+    "Cost": "$1,560.00"
+  },
+  {
+    "Procedure Code": "D7250",
+    "Abbrev Description": "RmResThRt",
+    "Description": "Removal residual tooth roots",
+    "Cost": "$884.00"
+  },
+  {
+    "Procedure Code": "D7260",
+    "Abbrev Description": "OrlAntFsC",
+    "Description": "Oroantral fistula closure",
+    "Cost": "$156.00"
+  },
+  {
+    "Procedure Code": "D7261",
+    "Abbrev Description": "ClsSinPrf",
+    "Description": "Prim closure sinus perforation",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7270",
+    "Abbrev Description": "ReimpStab",
+    "Description": "Reimplantation/stabilization",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7272",
+    "Abbrev Description": "ThTrnspln",
+    "Description": "Tooth transplantation",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7280",
+    "Abbrev Description": "ExpImpUer",
+    "Description": "Exposure of an unerupted tooth",
+    "Cost": "$598.00"
+  },
+  {
+    "Procedure Code": "D7282",
+    "Abbrev Description": "MobErMpTh",
+    "Description": "Mobiliz erupt/malpos th-erupt",
+    "Cost": "$380.00"
+  },
+  {
+    "Procedure Code": "D7283",
+    "Abbrev Description": "DvcErupTh",
+    "Description": "Device for impacted tooth",
+    "Cost": "$265.00"
+  },
+  {
+    "Procedure Code": "D7285",
+    "Abbrev Description": "BpsyOrTsH",
+    "Description": "Incisional biop oral tiss-hard",
+    "Cost": "$530.00"
+  },
+  {
+    "Procedure Code": "D7286",
+    "Abbrev Description": "BpsyOrTsS",
+    "Description": "Incisional biop oral tiss-soft",
+    "Cost": "$2,600.00"
+  },
+  {
+    "Procedure Code": "D7287",
+    "Abbrev Description": "CytSmpCol",
+    "Description": "Exfoliative cytological samples",
+    "Cost": "$416.00"
+  },
+  {
+    "Procedure Code": "D7288",
+    "Abbrev Description": "BrshBiopT",
+    "Description": "Brush biopsy-transepith sample",
+    "Cost": "$208.00"
+  },
+  {
+    "Procedure Code": "D7290",
+    "Abbrev Description": "SrgRepsTh",
+    "Description": "Surgical reposition of teeth",
+    "Cost": "$910.00"
+  },
+  {
+    "Procedure Code": "D7291",
+    "Abbrev Description": "TnsptlFbr",
+    "Description": "T/SC Fiberotomy, B/R",
+    "Cost": "$166.00"
+  },
+  {
+    "Procedure Code": "D7292",
+    "Abbrev Description": "PlcAncSrw",
+    "Description": "Plcmt: temp anch scrw plt + Rmv",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7293",
+    "Abbrev Description": "PlcAcWFlp",
+    "Description": "Plcmt: temp anch w/ flap + Rmv",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7294",
+    "Abbrev Description": "PlcAcNoFp",
+    "Description": "Plcmt: temp anch w/o flap + Rmv",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7310",
+    "Abbrev Description": "AlvplsyEx",
+    "Description": "Alveoloplasty w/ext 4+, quad",
+    "Cost": "$296.00"
+  },
+  {
+    "Procedure Code": "D7311",
+    "Abbrev Description": "AlvExt13q",
+    "Description": "Alveoloplasty w/ext 1-3 th/quad",
+    "Cost": "$260.00"
+  },
+  {
+    "Procedure Code": "D7320",
+    "Abbrev Description": "Alvplsty",
+    "Description": "Alveoloplasty w/o ext 4+, quad",
+    "Cost": "$390.00"
+  },
+  {
+    "Procedure Code": "D7321",
+    "Abbrev Description": "AlvNEx13q",
+    "Description": "Alveoloplsty w/o ex 1-3 th/quad",
+    "Cost": "$338.00"
+  },
+  {
+    "Procedure Code": "D7340",
+    "Abbrev Description": "Vstbplsy2",
+    "Description": "Vestibuloplasty-ridge ext -2nd",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7350",
+    "Abbrev Description": "VstplstyI",
+    "Description": "Vestiplasty-ridge ext (inc)",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7410",
+    "Abbrev Description": "RadExDm<=",
+    "Description": "Excision benign lesion<=1.25cm",
+    "Cost": "$1,248.00"
+  },
+  {
+    "Procedure Code": "D7411",
+    "Abbrev Description": "ExBnLs>",
+    "Description": "Excision benign lesion>1.25 cm",
+    "Cost": "$1,612.00"
+  },
+  {
+    "Procedure Code": "D7412",
+    "Abbrev Description": "ExBnLsCmp",
+    "Description": "Excision benign lesion,complic",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7413",
+    "Abbrev Description": "ExMtLs<=",
+    "Description": "Excision malig lesion<=1.25cm",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7414",
+    "Abbrev Description": "ExMtLs>",
+    "Description": "Excision malig lesion>1.25cm",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7415",
+    "Abbrev Description": "ExMtLsCmp",
+    "Description": "Excision malig lesion,complic",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7440",
+    "Abbrev Description": "ExMlTmD<=",
+    "Description": "Ex malig tumor-diam <= 1.25 cm",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7441",
+    "Abbrev Description": "ExMlTmD>",
+    "Description": "Ex malig tumor-diam > 1.25 cm",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7450",
+    "Abbrev Description": "RmOdCyD<=",
+    "Description": "Rem benign odont-diam<=1.25cm",
+    "Cost": "$884.00"
+  },
+  {
+    "Procedure Code": "D7451",
+    "Abbrev Description": "RmOdCyD>",
+    "Description": "Rem benign odont-diam>1.25 cm",
+    "Cost": "$1,300.00"
+  },
+  {
+    "Procedure Code": "D7460",
+    "Abbrev Description": "RmNodCD<=",
+    "Description": "Rem benign nonodont-di<=1.25cm",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7461",
+    "Abbrev Description": "RmNodCD>",
+    "Description": "Rem benign nonodont-diam>1.25cm",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7465",
+    "Abbrev Description": "DstrLsPhC",
+    "Description": "Destruct lesion-phys/chem B/R",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7471",
+    "Abbrev Description": "RmExsSite",
+    "Description": "Rem lat exostosis-maxil/mand",
+    "Cost": "$624.00"
+  },
+  {
+    "Procedure Code": "D7472",
+    "Abbrev Description": "RmTorPal",
+    "Description": "Removal of torus palatinus",
+    "Cost": "$790.00"
+  },
+  {
+    "Procedure Code": "D7473",
+    "Abbrev Description": "RmTorMan",
+    "Description": "Removal of torus mandibularis",
+    "Cost": "$709.00"
+  },
+  {
+    "Procedure Code": "D7485",
+    "Abbrev Description": "RedOssTub",
+    "Description": "Reduction of osseous tuberosity",
+    "Cost": "$598.00"
+  },
+  {
+    "Procedure Code": "D7490",
+    "Abbrev Description": "RdRsMnBng",
+    "Description": "Rad resectn-maxilla or mandible",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7510",
+    "Abbrev Description": "Inc/DrAIn",
+    "Description": "Incis/drain abscess-intra soft",
+    "Cost": "$520.00"
+  },
+  {
+    "Procedure Code": "D7511",
+    "Abbrev Description": "Inc/DAISC",
+    "Description": "Incis/drain abscs-int soft comp",
+    "Cost": "$338.00"
+  },
+  {
+    "Procedure Code": "D7520",
+    "Abbrev Description": "Inc/DrAEx",
+    "Description": "Incis/drain abscess-extra soft",
+    "Cost": "$853.00"
+  },
+  {
+    "Procedure Code": "D7521",
+    "Abbrev Description": "Inc/DAESC",
+    "Description": "Incis/drain abscs-ext soft comp",
+    "Cost": "$884.00"
+  },
+  {
+    "Procedure Code": "D7530",
+    "Abbrev Description": "RmFrBSbQT",
+    "Description": "Remove foreign body from tissue",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7540",
+    "Abbrev Description": "RmFrBdBon",
+    "Description": "Remove foreign body from bone",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7550",
+    "Abbrev Description": "SqstrOstm",
+    "Description": "Partial ostect/sequestrectomy",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7560",
+    "Abbrev Description": "MxlSnstRm",
+    "Description": "Maxill sinusotomy-rem foreign",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7610",
+    "Abbrev Description": "MxlOpRdIm",
+    "Description": "Maxilla-open red (teeth immob)",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7620",
+    "Abbrev Description": "MxlClRdIm",
+    "Description": "Maxilla-closed red(teeth immob)",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7630",
+    "Abbrev Description": "ManOpRdIm",
+    "Description": "Mandible-open red (teeth immob)",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7640",
+    "Abbrev Description": "ManClRdIm",
+    "Description": "Mandible-closed red (th immob)",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7650",
+    "Abbrev Description": "MlZyArOpR",
+    "Description": "Malar/zygomat arch-open reduc",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7660",
+    "Abbrev Description": "MlZyArClR",
+    "Description": "Malar/zygo arch-closed reduc",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7670",
+    "Abbrev Description": "AlvStabOp",
+    "Description": "Alveolus-closed reduction",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7671",
+    "Abbrev Description": "AlvOpnRed",
+    "Description": "Alveolus-open reduction",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7680",
+    "Abbrev Description": "FacBnCmRd",
+    "Description": "Facial bone-complicated reduct",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7710",
+    "Abbrev Description": "MxlOpRd",
+    "Description": "Maxilla-open reduction",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7720",
+    "Abbrev Description": "MxlClRd",
+    "Description": "Maxilla-closed reduction",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7730",
+    "Abbrev Description": "ManOpRd",
+    "Description": "Mandible-open reduction",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7740",
+    "Abbrev Description": "ManClRd",
+    "Description": "Mandible-closed reduction",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7750",
+    "Abbrev Description": "MalZYArOR",
+    "Description": "Malar/zygomatic arch-open red",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7760",
+    "Abbrev Description": "MalZyArCR",
+    "Description": "Malar/zygomatic arch-close red",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7770",
+    "Abbrev Description": "AlvStbThO",
+    "Description": "Alveolus-stabilize teeth, open",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7771",
+    "Abbrev Description": "AlvStabTh",
+    "Description": "Alveolus-stabilize teeth,closed",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7780",
+    "Abbrev Description": "FacBnCmpR",
+    "Description": "Facial bones-complicated reduc",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7810",
+    "Abbrev Description": "OpRdDsloc",
+    "Description": "Open reduction of dislocation",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7820",
+    "Abbrev Description": "ClRdDsloc",
+    "Description": "Closed reduction of dislocate",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7830",
+    "Abbrev Description": "ManipAnes",
+    "Description": "Manipulation under anesthesia",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7840",
+    "Abbrev Description": "Cndylctmy",
+    "Description": "Condylectomy",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7850",
+    "Abbrev Description": "SurgDisc",
+    "Description": "Surgical discect:w/ w/o implant",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7852",
+    "Abbrev Description": "DiscRepr",
+    "Description": "Disc repair",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7854",
+    "Abbrev Description": "Synvctomy",
+    "Description": "Synovectomy",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7856",
+    "Abbrev Description": "Myotomy",
+    "Description": "Myotomy",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7858",
+    "Abbrev Description": "JointRecn",
+    "Description": "Joint reconstruction",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7860",
+    "Abbrev Description": "Arthrtomy",
+    "Description": "Arthrotomy",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7865",
+    "Abbrev Description": "Arthrplst",
+    "Description": "Arthroplasty",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7870",
+    "Abbrev Description": "Arthrcnts",
+    "Description": "Arthrocentesis",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7871",
+    "Abbrev Description": "NonArthro",
+    "Description": "Non-arthroscopic lysis & lavage",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7872",
+    "Abbrev Description": "ArthrscpD",
+    "Description": "Arthroscopy-diag, w/ w/o biopsy",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7873",
+    "Abbrev Description": "ArthrAdhs",
+    "Description": "Arthroscopy-lavage/lysis adhes",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7874",
+    "Abbrev Description": "ArthrDsRS",
+    "Description": "Arthroscopy-disc rpstn/stabil",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7875",
+    "Abbrev Description": "ArthrSynv",
+    "Description": "Arthroscopy: synovectomy",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7876",
+    "Abbrev Description": "ArthrDsct",
+    "Description": "Arthroscopy: discectomy",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7877",
+    "Abbrev Description": "ArthrDbrd",
+    "Description": "Arthroscopy: debridement",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7880",
+    "Abbrev Description": "OclOrthDv",
+    "Description": "Occlusal orthotic device, B/R",
+    "Cost": "$806.00"
+  },
+  {
+    "Procedure Code": "D7899",
+    "Abbrev Description": "UnspcTMDT",
+    "Description": "Unspecified TMD therapy, B/R",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7910",
+    "Abbrev Description": "SutSmWds",
+    "Description": "Suture of small wounds to 5cm",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7911",
+    "Abbrev Description": "CompSut",
+    "Description": "Complicated suture-up to 5 cm",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7912",
+    "Abbrev Description": "CompSut>5",
+    "Description": "Complicated suture-over 5 cm",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7920",
+    "Abbrev Description": "SkinGraft",
+    "Description": "Skin grafts, by report",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7940",
+    "Abbrev Description": "OstpOrtDf",
+    "Description": "Osteoplasty-orthognathic defor",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7941",
+    "Abbrev Description": "OsteRamCl",
+    "Description": "Osteotomy-mand rami",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7943",
+    "Abbrev Description": "OstRmOpGr",
+    "Description": "Osteotomy-mand rami w/bone graf",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7944",
+    "Abbrev Description": "OstSgSbps",
+    "Description": "Osteotomy-segmented/subapical",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7945",
+    "Abbrev Description": "OstBdMand",
+    "Description": "Osteotomy-body of mandible",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7946",
+    "Abbrev Description": "LeFrtIMxT",
+    "Description": "LeFort I (maxilla-total)",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7947",
+    "Abbrev Description": "LeFrtIMxS",
+    "Description": "LeFort I (maxilla-segmented)",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7948",
+    "Abbrev Description": "LeFrt2&3",
+    "Description": "LeFort II/III-no bone graft",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7949",
+    "Abbrev Description": "LeFrt2&3B",
+    "Description": "LeFort II/III-with bone graft",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7950",
+    "Abbrev Description": "OsCrtGrMn",
+    "Description": "Graft of mandible/maxilla B/R",
+    "Cost": "$1,872.00"
+  },
+  {
+    "Procedure Code": "D7951",
+    "Abbrev Description": "SinAugBne",
+    "Description": "Sinus augmentation w/bone",
+    "Cost": "$5,195.00"
+  },
+  {
+    "Procedure Code": "D7953",
+    "Abbrev Description": "BnRpGftRP",
+    "Description": "Bone Graph",
+    "Cost": "$884.00"
+  },
+  {
+    "Procedure Code": "D7955",
+    "Abbrev Description": "RpMxfcSHT",
+    "Description": "Rep maxillofacial sft/hrd tis",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7960",
+    "Abbrev Description": "FrnlctmSP",
+    "Description": "Frenulectomy-separate procedur",
+    "Cost": "$525.00"
+  },
+  {
+    "Procedure Code": "D7963",
+    "Abbrev Description": "Frenulopl",
+    "Description": "Frenuloplasty",
+    "Cost": "$598.00"
+  },
+  {
+    "Procedure Code": "D7970",
+    "Abbrev Description": "ExcHypTsA",
+    "Description": "Excision, hyperplast tiss-arch",
+    "Cost": "$437.00"
+  },
+  {
+    "Procedure Code": "D7971",
+    "Abbrev Description": "ExcPrcGnA",
+    "Description": "Excision-pericoronal ging /arch",
+    "Cost": "$1,040.00"
+  },
+  {
+    "Procedure Code": "D7972",
+    "Abbrev Description": "SrgRedFib",
+    "Description": "Surg reduc, fibrous tuberosity",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7980",
+    "Abbrev Description": "Sialoltho",
+    "Description": "Surgical sialolithotomy",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7981",
+    "Abbrev Description": "ExcSalGld",
+    "Description": "Excision of salivary gland, B/R",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7982",
+    "Abbrev Description": "Sialodoch",
+    "Description": "Sialodochoplasty",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7983",
+    "Abbrev Description": "ClsrSalvF",
+    "Description": "Closure of salivary fistula",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7990",
+    "Abbrev Description": "EmerTrach",
+    "Description": "Emergency tracheotomy",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7991",
+    "Abbrev Description": "Cornoidct",
+    "Description": "Coronoidectomy",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7995",
+    "Abbrev Description": "SnGrMndFc",
+    "Description": "Synthetic graft-mand/facial,B/R",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7996",
+    "Abbrev Description": "ImplntAug",
+    "Description": "Implant-mandib/augmentation,B/R",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7997",
+    "Abbrev Description": "ApplRem",
+    "Description": "Appliance removal-incl archbar",
+    "Cost": "$156.00"
+  },
+  {
+    "Procedure Code": "D7998",
+    "Abbrev Description": "PlcDvNoFr",
+    "Description": "Plcmnt of devc w/o fracture",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D7999",
+    "Abbrev Description": "UnspcOrSr",
+    "Description": "Unspecified oral surg proc, B/R",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D8010",
+    "Abbrev Description": "LimitPrim",
+    "Description": "Limited ortho trt, primary dent",
+    "Cost": "$5,720.00"
+  },
+  {
+    "Procedure Code": "D8020",
+    "Abbrev Description": "LimitTran",
+    "Description": "Limited ortho trt, transitional",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D8030",
+    "Abbrev Description": "LimitAdol",
+    "Description": "Limited ortho treat, adolescent",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D8040",
+    "Abbrev Description": "LimitAdlt",
+    "Description": "Limited ortho treat, adult dent",
+    "Cost": "$884.00"
+  },
+  {
+    "Procedure Code": "D8050",
+    "Abbrev Description": "IntcPrim",
+    "Description": "Intercep orth trt, primary dent",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D8060",
+    "Abbrev Description": "IntcTrans",
+    "Description": "Intercep orth trt, transitional",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D8070",
+    "Abbrev Description": "CompTrans",
+    "Description": "Comprehensive orth,transitional",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D8080",
+    "Abbrev Description": "CompAdol",
+    "Description": "Adolescent Invisalign",
+    "Cost": "$4,680.00"
+  },
+  {
+    "Procedure Code": "D8090",
+    "Abbrev Description": "CompAdult",
+    "Description": "Adult Invisalign",
+    "Cost": "$7,904.00"
+  },
+  {
+    "Procedure Code": "D8210",
+    "Abbrev Description": "RmAppTh",
+    "Description": "Removable appliance therapy",
+    "Cost": "$1,248.00"
+  },
+  {
+    "Procedure Code": "D8220",
+    "Abbrev Description": "FxAppTh",
+    "Description": "Fixed appliance therapy",
+    "Cost": "$692.00"
+  },
+  {
+    "Procedure Code": "D8660",
+    "Abbrev Description": "PreOrthEx",
+    "Description": "Pre-orthodontic treatment exam",
+    "Cost": "$213.00"
+  },
+  {
+    "Procedure Code": "D8670",
+    "Abbrev Description": "Trays",
+    "Description": "Periodic ortho visit",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D8680",
+    "Abbrev Description": "OrthRetn",
+    "Description": "Orthodontic retention",
+    "Cost": "$884.00"
+  },
+  {
+    "Procedure Code": "D8690",
+    "Abbrev Description": "OrthTrtBl",
+    "Description": "Ortho treatment (bill/contract)",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D8691",
+    "Abbrev Description": "RepairApp",
+    "Description": "Repair of orthodontic appliance",
+    "Cost": "$204.00"
+  },
+  {
+    "Procedure Code": "D8692",
+    "Abbrev Description": "ReplcRetn",
+    "Description": "Retainer replacemnt-lost/broken",
+    "Cost": "$204.00"
+  },
+  {
+    "Procedure Code": "D8693",
+    "Abbrev Description": "RepFixRet",
+    "Description": "Recement/bond of fixed retainer",
+    "Cost": "$676.00"
+  },
+  {
+    "Procedure Code": "D8999",
+    "Abbrev Description": "UnspcOrth",
+    "Description": "Unspec ortho procedure, B/R",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D9110",
+    "Abbrev Description": "EmergEx",
+    "Description": "Emerg treatment, palliative",
+    "Cost": "$364.00"
+  },
+  {
+    "Procedure Code": "D9120",
+    "Abbrev Description": "FixDntSct",
+    "Description": "Fixed partl denture sectioning",
+    "Cost": "$364.00"
+  },
+  {
+    "Procedure Code": "D9210",
+    "Abbrev Description": "LoclAnsNO",
+    "Description": "Local anesthesia not op/surg",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D9211",
+    "Abbrev Description": "RegBlkAns",
+    "Description": "Regional block anesthesia",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D9212",
+    "Abbrev Description": "TriDvBlAn",
+    "Description": "Trigeminal division blk anesth",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D9215",
+    "Abbrev Description": "LoclAnes",
+    "Description": "Local anesthesia",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D9220",
+    "Abbrev Description": "GnAns30mn",
+    "Description": "Deep sedat/gen anesth-1st 30m",
+    "Cost": "$2,600.00"
+  },
+  {
+    "Procedure Code": "D9221",
+    "Abbrev Description": "GnAns+15m",
+    "Description": "Deep sedat/gen anesth-ea+15m",
+    "Cost": "$598.00"
+  },
+  {
+    "Procedure Code": "D9230",
+    "Abbrev Description": "AnlgNitOx",
+    "Description": "Analgesia-inhal of nitrous oxid",
+    "Cost": "$109.00"
+  },
+  {
+    "Procedure Code": "D9241",
+    "Abbrev Description": "IntraF30m",
+    "Description": "IV conscious sed/analg-1st 30m",
+    "Cost": "$1,284.00"
+  },
+  {
+    "Procedure Code": "D9242",
+    "Abbrev Description": "IntrAdd15",
+    "Description": "IV conscious sed/analg-ea15m+",
+    "Cost": "$521.00"
+  },
+  {
+    "Procedure Code": "D9248",
+    "Abbrev Description": "NonIntrSn",
+    "Description": "Non IV conscious sedation",
+    "Cost": "$468.00"
+  },
+  {
+    "Procedure Code": "D9310",
+    "Abbrev Description": "Consult",
+    "Description": "Consultation (2nd opinion)",
+    "Cost": "$364.00"
+  },
+  {
+    "Procedure Code": "D9410",
+    "Abbrev Description": "ProfHsCal",
+    "Description": "Professional house call",
+    "Cost": "$99.00"
+  },
+  {
+    "Procedure Code": "D9420",
+    "Abbrev Description": "ProfHosCl",
+    "Description": "Hospital call",
+    "Cost": "$99.00"
+  },
+  {
+    "Procedure Code": "D9430",
+    "Abbrev Description": "OffVisRgH",
+    "Description": "Office visit for observation",
+    "Cost": "$78.00"
+  },
+  {
+    "Procedure Code": "D9440",
+    "Abbrev Description": "OffVisAfH",
+    "Description": "Office visit-after regular hrs",
+    "Cost": "$312.00"
+  },
+  {
+    "Procedure Code": "D9450",
+    "Abbrev Description": "CasPsntTx",
+    "Description": "Case present,detailed/extens tx",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D9610",
+    "Abbrev Description": "ThrDrgPnt",
+    "Description": "Therap parenteral drug, 1 dose",
+    "Cost": "$182.00"
+  },
+  {
+    "Procedure Code": "D9612",
+    "Abbrev Description": "ThpdPtl2+",
+    "Description": "Therap parenteral drugs, 2+",
+    "Cost": "$260.00"
+  },
+  {
+    "Procedure Code": "D9630",
+    "Abbrev Description": "DrgMedHom",
+    "Description": "Drugs/medicaments for home use",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D9910",
+    "Abbrev Description": "ApDesnMed",
+    "Description": "Application of desensitize med",
+    "Cost": "$213.00"
+  },
+  {
+    "Procedure Code": "D9911",
+    "Abbrev Description": "DesResTh",
+    "Description": "Apply desensitiz' resin, per th",
+    "Cost": "$100.00"
+  },
+  {
+    "Procedure Code": "D9920",
+    "Abbrev Description": "BehavMang",
+    "Description": "Behavior management, by report",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D9930",
+    "Abbrev Description": "TrtPstOpC",
+    "Description": "Treat complications-postsurgic",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D9940",
+    "Abbrev Description": "OcclGuard",
+    "Description": "DELETED",
+    "Cost": "$884.00"
+  },
+  {
+    "Procedure Code": "D9941",
+    "Abbrev Description": "FabAthMgd",
+    "Description": "Fabricated sports guard",
+    "Cost": "$676.00"
+  },
+  {
+    "Procedure Code": "D9942",
+    "Abbrev Description": "RepRelOG",
+    "Description": "Repair/Reline of occlusal guard",
+    "Cost": "$208.00"
+  },
+  {
+    "Procedure Code": "D9950",
+    "Abbrev Description": "OcclanlMC",
+    "Description": "Occlusal analysis-mounted case",
+    "Cost": "$406.00"
+  },
+  {
+    "Procedure Code": "D9951",
+    "Abbrev Description": "OcclAdjLm",
+    "Description": "Occlusal adjustment-limited",
+    "Cost": "$234.00"
+  },
+  {
+    "Procedure Code": "D9952",
+    "Abbrev Description": "OcclAdjCm",
+    "Description": "Occlusal adjustment-complete",
+    "Cost": "$510.00"
+  },
+  {
+    "Procedure Code": "D9970",
+    "Abbrev Description": "EnamMcrAb",
+    "Description": "Enamel microabrasion",
+    "Cost": "$1,040.00"
+  },
+  {
+    "Procedure Code": "D9971",
+    "Abbrev Description": "Odontopl",
+    "Description": "Odontoplasty 1-2 teeth-rmv enam",
+    "Cost": "$572.00"
+  },
+  {
+    "Procedure Code": "D9972",
+    "Abbrev Description": "Zoom",
+    "Description": "External Bleaching-Office-Arch",
+    "Cost": "$676.00"
+  },
+  {
+    "Procedure Code": "D9973",
+    "Abbrev Description": "ExtBlchTh",
+    "Description": "External bleaching-per tooth",
+    "Cost": "$99.00"
+  },
+  {
+    "Procedure Code": "D9974",
+    "Abbrev Description": "IntBlchTh",
+    "Description": "Internal bleaching-per tooth",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D9999",
+    "Abbrev Description": "UnspcAdjP",
+    "Description": "Unspecified adjunct. proced,B/R",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D0417",
+    "Abbrev Description": "CltSaliva",
+    "Description": "Collection of saliva sample",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D0418",
+    "Abbrev Description": "AnlSaliva",
+    "Description": "Analysis of saliva sample",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D3222",
+    "Abbrev Description": "PartPulp",
+    "Description": "Partial pulpototomy apexogen",
+    "Cost": "$27.00"
+  },
+  {
+    "Procedure Code": "D5991",
+    "Abbrev Description": "TopMedCar",
+    "Description": "Topical medicament carrier",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D1352",
+    "Abbrev Description": "PrevRest",
+    "Description": "Preventive Restoration, Perm Th",
+    "Cost": "$364.00"
+  },
+  {
+    "Procedure Code": "D5992",
+    "Abbrev Description": "AdjProsth",
+    "Description": "Adj Max'facial Prosth, Report",
+    "Cost": "$36.00"
+  },
+  {
+    "Procedure Code": "D5993",
+    "Abbrev Description": "MntProsth",
+    "Description": "Maint Max'facial Prosth, Report",
+    "Cost": "$36.00"
+  },
+  {
+    "Procedure Code": "D7251",
+    "Abbrev Description": "Coronect",
+    "Description": "Coronectomy-part tooth removal",
+    "Cost": "$1,300.00"
+  },
+  {
+    "Procedure Code": "D7295",
+    "Abbrev Description": "BoneHarv",
+    "Description": "Bone Harvest for Grafting",
+    "Cost": "$26.00"
+  },
+  {
+    "Procedure Code": "D0190",
+    "Abbrev Description": "Screen",
+    "Description": "Screening of Patient",
+    "Cost": "$156.00"
+  },
+  {
+    "Procedure Code": "D0191",
+    "Abbrev Description": "Assess",
+    "Description": "Assessment of Patient",
+    "Cost": "$120.00"
+  },
+  {
+    "Procedure Code": "D0364",
+    "Abbrev Description": "Cap<1Jaw",
+    "Description": "CT Capture, Lmtd View < 1 Jaw",
+    "Cost": "$452.00"
+  },
+  {
+    "Procedure Code": "D0365",
+    "Abbrev Description": "Cap-Mand",
+    "Description": "CT Capture, Full Arch, Mandible",
+    "Cost": "$452.00"
+  },
+  {
+    "Procedure Code": "D0366",
+    "Abbrev Description": "Cap-Maxil",
+    "Description": "CT Capture, Full Arch, Maxilla",
+    "Cost": "$452.00"
+  },
+  {
+    "Procedure Code": "D0367",
+    "Abbrev Description": "Cap-Both",
+    "Description": "CT Capture, Both Jaws",
+    "Cost": "$452.00"
+  },
+  {
+    "Procedure Code": "D0368",
+    "Abbrev Description": "Cap-TMJ",
+    "Description": "CT Capture, TMJ, 2+ Exposures",
+    "Cost": "$452.00"
+  },
+  {
+    "Procedure Code": "D0369",
+    "Abbrev Description": "Cap-MRI",
+    "Description": "Maxillofacial MRI Capture",
+    "Cost": "$47.00"
+  },
+  {
+    "Procedure Code": "D0370",
+    "Abbrev Description": "Cap-Ultra",
+    "Description": "Maxillofacial Ultrasnd Capture",
+    "Cost": "$47.00"
+  },
+  {
+    "Procedure Code": "D0371",
+    "Abbrev Description": "Cap-Sialo",
+    "Description": "Sialoendoscopy Capture",
+    "Cost": "$47.00"
+  },
+  {
+    "Procedure Code": "D0380",
+    "Abbrev Description": "Img<1Jaw",
+    "Description": "CT Image, Lmtd View < 1 Jaw",
+    "Cost": "$442.00"
+  },
+  {
+    "Procedure Code": "D0381",
+    "Abbrev Description": "Img-Mand",
+    "Description": "CT Image, Full Arch, Mandible",
+    "Cost": "$442.00"
+  },
+  {
+    "Procedure Code": "D0382",
+    "Abbrev Description": "Img-Maxil",
+    "Description": "CT Image, Full Arch, Maxilla",
+    "Cost": "$442.00"
+  },
+  {
+    "Procedure Code": "D0383",
+    "Abbrev Description": "Img-Both",
+    "Description": "CT Image, Both Jaws",
+    "Cost": "$442.00"
+  },
+  {
+    "Procedure Code": "D0384",
+    "Abbrev Description": "Img-TMJ",
+    "Description": "CT Image, TMJ, 2+ Exposures",
+    "Cost": "$442.00"
+  },
+  {
+    "Procedure Code": "D0385",
+    "Abbrev Description": "Img-MRI",
+    "Description": "Maxillofacial MRI Image",
+    "Cost": "$31.00"
+  },
+  {
+    "Procedure Code": "D0386",
+    "Abbrev Description": "Img-Ultra",
+    "Description": "Maxillofacial Ultrasnd Image",
+    "Cost": "$31.00"
+  },
+  {
+    "Procedure Code": "D0391",
+    "Abbrev Description": "DiagImg",
+    "Description": "Inter. Diagnostic Img, Oth Prov",
+    "Cost": "$31.00"
+  },
+  {
+    "Procedure Code": "D0393",
+    "Abbrev Description": "3dTrtSim",
+    "Description": "Treatment sim. using 3D Imgs",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D0394",
+    "Abbrev Description": "DigitlSub",
+    "Description": "Digital Subtraction of 2+ Imgs",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D0395",
+    "Abbrev Description": "3dImgFuse",
+    "Description": "3D image fusion",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D0601",
+    "Abbrev Description": "CarRskLow",
+    "Description": "Caries risk assessment - Low",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D0602",
+    "Abbrev Description": "CarRskMod",
+    "Description": "Caries risk assessment - Mod",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D0603",
+    "Abbrev Description": "CarRskHgh",
+    "Description": "Caries risk assessment - High",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D1208",
+    "Abbrev Description": "TopFlApXV",
+    "Description": "Topical Appl of Fluor Excl Varn",
+    "Cost": "$104.00"
+  },
+  {
+    "Procedure Code": "D1999",
+    "Abbrev Description": "UnspPrev",
+    "Description": "Unspecified prev procedure, B/R",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D2921",
+    "Abbrev Description": "ReaThFrgI",
+    "Description": "Reattach Th Fragment, incisal",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D2929",
+    "Abbrev Description": "PCrnPCPri",
+    "Description": "Prefab Porcelain/C Crown-Prim",
+    "Cost": "$780.00"
+  },
+  {
+    "Procedure Code": "D2941",
+    "Abbrev Description": "IntRstPri",
+    "Description": "Interim Therapeutic Rest - Prim",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D2949",
+    "Abbrev Description": "RstFndInd",
+    "Description": "Foundation for Indirect Rest",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D2981",
+    "Abbrev Description": "InlayRep",
+    "Description": "Inlay Repair, Material Failure",
+    "Cost": "$572.00"
+  },
+  {
+    "Procedure Code": "D2982",
+    "Abbrev Description": "OnlayRep",
+    "Description": "Onlay Repair, Material Failure",
+    "Cost": "$572.00"
+  },
+  {
+    "Procedure Code": "D2983",
+    "Abbrev Description": "VeneerRep",
+    "Description": "Veneer Repair, Material Failure",
+    "Cost": "$1,560.00"
+  },
+  {
+    "Procedure Code": "D2990",
+    "Abbrev Description": "ResInfilt",
+    "Description": "Resin Infiltration-Surf Lesions",
+    "Cost": "$884.00"
+  },
+  {
+    "Procedure Code": "D3355",
+    "Abbrev Description": "PulpRg1st",
+    "Description": "Pulpal Regeneration - 1st visit",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D3356",
+    "Abbrev Description": "PulpRgInt",
+    "Description": "Pulpal Rgn - interim med Replc",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D3357",
+    "Abbrev Description": "PulpRgCmp",
+    "Description": "Pulpal Regen - completion",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D3428",
+    "Abbrev Description": "PrdSrg1St",
+    "Description": "Bone Graft w/Perirdc Srg 1 Site",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D3429",
+    "Abbrev Description": "BnGfPrd+1",
+    "Description": "Bn Graft w/Berirdc Srg each add",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D3431",
+    "Abbrev Description": "BioMtrPrd",
+    "Description": "Bio Mtrl to aid Reg w/Prdc Srg",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D3432",
+    "Abbrev Description": "GuiTisPrd",
+    "Description": "Guided TissRgn PerSite w/PrdSrg",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D4212",
+    "Abbrev Description": "GingvRest",
+    "Description": "Gingivectomy-Access/Restoration",
+    "Cost": "$2,600.00"
+  },
+  {
+    "Procedure Code": "D4277",
+    "Abbrev Description": "SfTisGr1",
+    "Description": "Free Soft Tiss Graft, 1st Tooth",
+    "Cost": "$2,600.00"
+  },
+  {
+    "Procedure Code": "D4278",
+    "Abbrev Description": "SfTisGr+",
+    "Description": "Free Soft Tiss Graft, Each Add",
+    "Cost": "$2,600.00"
+  },
+  {
+    "Procedure Code": "D4921",
+    "Abbrev Description": "GingIrrQd",
+    "Description": "Gingival Irrigation - Per Quad",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D5863",
+    "Abbrev Description": "ODComMax",
+    "Description": "Overdenture - Complete Max",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D5864",
+    "Abbrev Description": "ODParMax",
+    "Description": "Overdenture - Partial Max",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D5865",
+    "Abbrev Description": "ODComMan",
+    "Description": "Overdenture - Complete Mand",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D5866",
+    "Abbrev Description": "ODParMan",
+    "Description": "Overdenture - Partial Mand",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D5994",
+    "Abbrev Description": "PerMedCar",
+    "Description": "Periodontal medicament carrier",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D6011",
+    "Abbrev Description": "2StImpSrg",
+    "Description": "Second stage implant surgery",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D6013",
+    "Abbrev Description": "PlcMinImp",
+    "Description": "Placement of mini implant",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D6051",
+    "Abbrev Description": "IntrmAbut",
+    "Description": "Interim Abutment",
+    "Cost": "$36.00"
+  },
+  {
+    "Procedure Code": "D6052",
+    "Abbrev Description": "SmPricAbt",
+    "Description": "Semi-precision attchmt abutment",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D6101",
+    "Abbrev Description": "DbrdPerIm",
+    "Description": "Debride Peri-Implant Defect",
+    "Cost": "$36.00"
+  },
+  {
+    "Procedure Code": "D6102",
+    "Abbrev Description": "D/OPerImp",
+    "Description": "Debride/Oss Peri-Implant Defect",
+    "Cost": "$36.00"
+  },
+  {
+    "Procedure Code": "D6103",
+    "Abbrev Description": "BnGrftRep",
+    "Description": "Bone Graft Rep Peri-Imp Defect",
+    "Cost": "$36.00"
+  },
+  {
+    "Procedure Code": "D6104",
+    "Abbrev Description": "BnGrftImp",
+    "Description": "Bone Graft, Implant Placement",
+    "Cost": "$884.00"
+  },
+  {
+    "Procedure Code": "D7921",
+    "Abbrev Description": "AutoBlood",
+    "Description": "Coll/App Autologous Blood Conc",
+    "Cost": "$1,560.00"
+  },
+  {
+    "Procedure Code": "D7952",
+    "Abbrev Description": "SinAugVer",
+    "Description": "Sinus Augment,Vertical Approach",
+    "Cost": "$1,638.00"
+  },
+  {
+    "Procedure Code": "D8694",
+    "Abbrev Description": "ReaFixRet",
+    "Description": "Repair/reattach fixed retainer",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D9975",
+    "Abbrev Description": "ExtBlHmAr",
+    "Description": "External Bleaching-Home-Arch",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D9985",
+    "Abbrev Description": "SalesTax",
+    "Description": "Sales Tax",
+    "Cost": "$1,560.00"
+  },
+  {
+    "Procedure Code": "D0171",
+    "Abbrev Description": "ReEvalPOp",
+    "Description": "Re-eval - Post-op Office Visit",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D0351",
+    "Abbrev Description": "3DOrlImgs",
+    "Description": "3D Photographic Image",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D1353",
+    "Abbrev Description": "SealRep",
+    "Description": "Sealant repair - per tooth",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D3427",
+    "Abbrev Description": "PerSurg",
+    "Description": "Periradicular surg-no apicoect",
+    "Cost": "$1,040.00"
+  },
+  {
+    "Procedure Code": "D6110",
+    "Abbrev Description": "ImAbtRDMx",
+    "Description": "Imp/abt sup RD - ednt max",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D6111",
+    "Abbrev Description": "ImAbtRDMn",
+    "Description": "Imp/abt sup RD - ednt mand",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D6112",
+    "Abbrev Description": "ImAbRDPMx",
+    "Description": "Imp/abt sup RD - Part-ednt max",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D6113",
+    "Abbrev Description": "ImAbRDPMn",
+    "Description": "Imp/abt sup RD - Part-ednt mand",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D6114",
+    "Abbrev Description": "ImAbtFDMx",
+    "Description": "Imp/abt sup FD - ednt max",
+    "Cost": "$15,600.00"
+  },
+  {
+    "Procedure Code": "D6115",
+    "Abbrev Description": "ImAbtFDMn",
+    "Description": "Imp/abt sup FD - ednt mand",
+    "Cost": "$10,400.00"
+  },
+  {
+    "Procedure Code": "D6116",
+    "Abbrev Description": "ImAbFDPMx",
+    "Description": "Imp/abt sup FD - Part-ednt max",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D6117",
+    "Abbrev Description": "ImAbFDPMn",
+    "Description": "Imp/abt sup FD - Part-ednt mand",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D6549",
+    "Abbrev Description": "RetResFxd",
+    "Description": "Ret-res - Res bnd fxd pros",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D9219",
+    "Abbrev Description": "EvalSedAn",
+    "Description": "Eval for deep sedat/gen anesth",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D9931",
+    "Abbrev Description": "ClnInsRAp",
+    "Description": "Clean/insp of rmvbl appliance",
+    "Cost": "$99.00"
+  },
+  {
+    "Procedure Code": "D9986",
+    "Abbrev Description": "MissAppt",
+    "Description": "Missed appointment",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D9987",
+    "Abbrev Description": "CancAppt",
+    "Description": "Cancelled Appointment",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D0251",
+    "Abbrev Description": "XtraPost",
+    "Description": "Extraoral posterior Xray image",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D0422",
+    "Abbrev Description": "SampColl",
+    "Description": "Sample collection for analysis",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D0423",
+    "Abbrev Description": "GenTest",
+    "Description": "Genetic test-suspect disease",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D1354",
+    "Abbrev Description": "CarArrMed",
+    "Description": "Caries arresting meds-per tooth",
+    "Cost": "$68.00"
+  },
+  {
+    "Procedure Code": "D4283",
+    "Abbrev Description": "AutGnGrf+",
+    "Description": "Autgen con tiss graft, Each Add",
+    "Cost": "$1,924.00"
+  },
+  {
+    "Procedure Code": "D4285",
+    "Abbrev Description": "NoAutGrf+",
+    "Description": "Non-autgen con tis grft, Ea Add",
+    "Cost": "$1,924.00"
+  },
+  {
+    "Procedure Code": "D5221",
+    "Abbrev Description": "ImUpParRs",
+    "Description": "Immed maxil partl dent w/resin",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D5222",
+    "Abbrev Description": "ImLwParRs",
+    "Description": "Immed mand partl dent w/resin",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D5223",
+    "Abbrev Description": "ImUpParMt",
+    "Description": "Imd Max part-cast metl w/resin",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D5224",
+    "Abbrev Description": "ImLwParMt",
+    "Description": "Imd Mand part-cast metl w/resin",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D7881",
+    "Abbrev Description": "OcOrDvAdj",
+    "Description": "Occlusal ortho device adjustmnt",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D8681",
+    "Abbrev Description": "OrthRetAd",
+    "Description": "Remov ortho retainer adjustment",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D9223",
+    "Abbrev Description": "DpSed+15m",
+    "Description": "Deep sedat/gen anesth- +15min",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D9243",
+    "Abbrev Description": "IVEa+15m",
+    "Description": "IV conscious sed/analg-ea+15m",
+    "Cost": "$1,284.00"
+  },
+  {
+    "Procedure Code": "D9932",
+    "Abbrev Description": "ClnMxCDen",
+    "Description": "Clean/insp of maxl comp denture",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D9933",
+    "Abbrev Description": "ClnMdCDen",
+    "Description": "Clean/insp of mand comp denture",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D9934",
+    "Abbrev Description": "ClnMxPDen",
+    "Description": "Clean/insp of maxl part denture",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D9935",
+    "Abbrev Description": "ClnMdPDen",
+    "Description": "Clean/insp of mand part denture",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D9943",
+    "Abbrev Description": "OccGrdAdj",
+    "Description": "Occlusal guard adjustment",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D0414",
+    "Abbrev Description": "LabMBSrep",
+    "Description": "Lab, microbial specimen, report",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D0600",
+    "Abbrev Description": "DxEDCchg",
+    "Description": "Diagnose enamel,dentin,cementum",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D1575",
+    "Abbrev Description": "SpMFixUDS",
+    "Description": "Space maint-fixed-unil,dst shoe",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D4346",
+    "Abbrev Description": "SclFull",
+    "Description": "Scale,gingival inflam-full mth",
+    "Cost": "$416.00"
+  },
+  {
+    "Procedure Code": "D6081",
+    "Abbrev Description": "ScalImp",
+    "Description": "Scaling/debridement of implant",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D6085",
+    "Abbrev Description": "PrImpCrwn",
+    "Description": "Provisional implant crown",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D9311",
+    "Abbrev Description": "MedConslt",
+    "Description": "Consult w/ medical professional",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D9991",
+    "Abbrev Description": "DCMApptIs",
+    "Description": "DCM: appointment non-compliance",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D9992",
+    "Abbrev Description": "DCMCareCo",
+    "Description": "DCM: care coordination",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D9993",
+    "Abbrev Description": "DCMMotInt",
+    "Description": "DCM: motivational interviewing",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D9994",
+    "Abbrev Description": "DCMPatEd",
+    "Description": "DCM: oral health education",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "...",
+    "Abbrev Description": "...",
+    "Description": "...",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": 1,
+    "Abbrev Description": 1,
+    "Description": 1,
+    "Cost": "$51.00"
+  },
+  {
+    "Procedure Code": 2920.1,
+    "Abbrev Description": "RECEMENT",
+    "Description": "Recement Temp",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "2952.10 I",
+    "Abbrev Description": "InsPost",
+    "Description": "2952.10 Insert Post",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": 6010.1,
+    "Abbrev Description": "2ndStage",
+    "Description": "Second Stage",
+    "Cost": "$104.00"
+  },
+  {
+    "Procedure Code": 8090.2,
+    "Abbrev Description": 8090.2,
+    "Description": "Ortho Impression",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": 8090.3,
+    "Abbrev Description": 8090.3,
+    "Description": "Invisalign Refinement",
+    "Cost": "$104.00"
+  },
+  {
+    "Procedure Code": "8090.40 I",
+    "Abbrev Description": "MidCourse",
+    "Description": "8090.40 Invisalign Mid Course",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": 8090.5,
+    "Abbrev Description": "Attachmen",
+    "Description": "Attachments",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "8090.51 I",
+    "Abbrev Description": "8090.51 I",
+    "Description": "8090.51 Invisalign Trays Shipme",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "AHMED",
+    "Abbrev Description": "AHMED",
+    "Description": "Ahmed",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "ARRESTINE",
+    "Abbrev Description": "ARRESTINE",
+    "Description": "Arrestine Prescription",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "CUSTOM WH",
+    "Abbrev Description": "CUSTOM WH",
+    "Description": "Per Arch",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D0360",
+    "Abbrev Description": "D0360",
+    "Description": "Cone Beam CT",
+    "Cost": "$364.00"
+  },
+  {
+    "Procedure Code": "D0362",
+    "Abbrev Description": "D0362",
+    "Description": "Cone Beam, Two Dimensional",
+    "Cost": "$424.00"
+  },
+  {
+    "Procedure Code": "D0363",
+    "Abbrev Description": "D0363",
+    "Description": "Cone Beam, Three Dimensional",
+    "Cost": "$364.00"
+  },
+  {
+    "Procedure Code": "D1110.01",
+    "Abbrev Description": "MARGCLEAN",
+    "Description": "Marginal Cleanup",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D1203",
+    "Abbrev Description": "D1203",
+    "Description": "Fluoride Application, Child",
+    "Cost": "$104.00"
+  },
+  {
+    "Procedure Code": "D1204",
+    "Abbrev Description": "D1204",
+    "Description": "Fluoride Application, Adult",
+    "Cost": "$104.00"
+  },
+  {
+    "Procedure Code": "D2610.10",
+    "Abbrev Description": "InsInlay",
+    "Description": "Insert Inlay",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D2610.20",
+    "Abbrev Description": "D2610.20",
+    "Description": "Cement Inlay",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D2642.10",
+    "Abbrev Description": "InsOnlay",
+    "Description": "Insert Onlay",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D2642.20",
+    "Abbrev Description": "D2642.20",
+    "Description": "Cement Onlay",
+    "Cost": "$51.00"
+  },
+  {
+    "Procedure Code": "D2740.1",
+    "Abbrev Description": "D2740.1",
+    "Description": "Z system Zirconia Crown",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D2750.10",
+    "Abbrev Description": "InsertCrn",
+    "Description": "Insert Crown",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D2750.20",
+    "Abbrev Description": "D2750.20",
+    "Description": "Cement Crown",
+    "Cost": "$51.00"
+  },
+  {
+    "Procedure Code": "D2750.30",
+    "Abbrev Description": "WaxTryIn",
+    "Description": "D2750.30 Wax Try In",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D2750.40",
+    "Abbrev Description": "D2750.40",
+    "Description": "D2750.40 Metal Try In",
+    "Cost": "$51.00"
+  },
+  {
+    "Procedure Code": "D2750.50",
+    "Abbrev Description": "TryIn",
+    "Description": "D2750.50 Try In",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D2750.60",
+    "Abbrev Description": "D2750.60",
+    "Description": "D2750.60 Imporession For Final",
+    "Cost": "$51.00"
+  },
+  {
+    "Procedure Code": "D2798",
+    "Abbrev Description": "D2798",
+    "Description": "D2798",
+    "Cost": "$51.00"
+  },
+  {
+    "Procedure Code": "D2962.10",
+    "Abbrev Description": "InsVeneer",
+    "Description": "Insert Veneer",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D2962.20",
+    "Abbrev Description": "D2962.20",
+    "Description": "Cement Veneer",
+    "Cost": "$51.00"
+  },
+  {
+    "Procedure Code": "D2970.10",
+    "Abbrev Description": "ImpressTm",
+    "Description": "Impression For Temporary",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D2970.20",
+    "Abbrev Description": "InsTemp",
+    "Description": "D2970.20 Insert Temporary",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D3354",
+    "Abbrev Description": "D3354",
+    "Description": "D3354",
+    "Cost": "$26.00"
+  },
+  {
+    "Procedure Code": "D4271",
+    "Abbrev Description": "D4271",
+    "Description": "Free Soft Tissue Graft",
+    "Cost": "$2,500.00"
+  },
+  {
+    "Procedure Code": "D4331",
+    "Abbrev Description": "D4331",
+    "Description": "D4331",
+    "Cost": "$51.00"
+  },
+  {
+    "Procedure Code": "D5000.0",
+    "Abbrev Description": "WaxUp",
+    "Description": "Wax Up",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D5110.10",
+    "Abbrev Description": "InsDentur",
+    "Description": "D5110.10 Insert Denture",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D5820.10",
+    "Abbrev Description": "D5820.10",
+    "Description": "D5820.10 Deliver Interim Partia",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D5860",
+    "Abbrev Description": "D5860",
+    "Description": "Complete Overdenture",
+    "Cost": "$2,378.00"
+  },
+  {
+    "Procedure Code": "D5861",
+    "Abbrev Description": "D5861",
+    "Description": "Partial Overdenture",
+    "Cost": "$1,794.00"
+  },
+  {
+    "Procedure Code": "D6010.20",
+    "Abbrev Description": "D6010.20",
+    "Description": "D6010.20 Impressions for Biotem",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D6010.30",
+    "Abbrev Description": "D6010.30",
+    "Description": "D6010.30 Insert Biotemp",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D6053",
+    "Abbrev Description": "D6053",
+    "Description": "Implant, Abutments Supported Re",
+    "Cost": "$2,378.00"
+  },
+  {
+    "Procedure Code": "D6054",
+    "Abbrev Description": "D6054",
+    "Description": "Implants, Abutments Supported R",
+    "Cost": "$1,794.00"
+  },
+  {
+    "Procedure Code": "D6057.01",
+    "Abbrev Description": "D6057.01",
+    "Description": "Healing Cap Placed",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D6078",
+    "Abbrev Description": "D6078",
+    "Description": "Implant, Abutments Supported Fi",
+    "Cost": "$9,301.00"
+  },
+  {
+    "Procedure Code": "D6079",
+    "Abbrev Description": "D6079",
+    "Description": "Implant, Abutments Supported Fi",
+    "Cost": "$51.00"
+  },
+  {
+    "Procedure Code": "D6254",
+    "Abbrev Description": "D6254",
+    "Description": "D6254",
+    "Cost": "$26.00"
+  },
+  {
+    "Procedure Code": "D6795",
+    "Abbrev Description": "D6795",
+    "Description": "Crown, Interim Retainer Crown",
+    "Cost": "$26.00"
+  },
+  {
+    "Procedure Code": "D6970",
+    "Abbrev Description": "D6970",
+    "Description": "Fixed Partial Denture Post and",
+    "Cost": "$401.00"
+  },
+  {
+    "Procedure Code": "D6972",
+    "Abbrev Description": "D6972",
+    "Description": "Fixed Partial Denture, Prefabri",
+    "Cost": "$362.00"
+  },
+  {
+    "Procedure Code": "D6973",
+    "Abbrev Description": "D6973",
+    "Description": "Fixed Partial Denture Core Buil",
+    "Cost": "$288.00"
+  },
+  {
+    "Procedure Code": "D6975",
+    "Abbrev Description": "D6975",
+    "Description": "Fixed Partial Denture Coping",
+    "Cost": "$581.00"
+  },
+  {
+    "Procedure Code": "D6976",
+    "Abbrev Description": "D6976",
+    "Description": "Fixed Partial Denture Indirect",
+    "Cost": "$207.00"
+  },
+  {
+    "Procedure Code": "D6977",
+    "Abbrev Description": "D6977",
+    "Description": "Fixed Partial Denture Prefabric",
+    "Cost": "$197.00"
+  },
+  {
+    "Procedure Code": "D70355",
+    "Abbrev Description": "D70355",
+    "Description": "Panoramic Xray",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D7140.601",
+    "Abbrev Description": "D7140.601",
+    "Description": "Extraction of Existing Implant",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D8090.10",
+    "Abbrev Description": "D8090.10",
+    "Description": "Ortho Photos",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "D8090.60",
+    "Abbrev Description": "RepTrays",
+    "Description": "Invisalign Replacement Tray",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D8090.70",
+    "Abbrev Description": "RemAttach",
+    "Description": "D8090.70 Remove Attachments",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D8680.10",
+    "Abbrev Description": "D8680.10",
+    "Description": "Orthodontic Retension Vivera",
+    "Cost": "$884.00"
+  },
+  {
+    "Procedure Code": "D8680.20",
+    "Abbrev Description": "DelRetain",
+    "Description": "D8680.20 Deliver Retainer",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D9222",
+    "Abbrev Description": "DpSed<15m",
+    "Description": "Deep sedat/gen anesth- 1st15min",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D9972.1 M",
+    "Abbrev Description": "D9972.1 M",
+    "Description": "D9972.1 MI PASTE",
+    "Cost": "$51.00"
+  },
+  {
+    "Procedure Code": "D9972.2",
+    "Abbrev Description": "D9972.2",
+    "Description": "SDM Recare Maintenance $190 Pac",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D9972.20",
+    "Abbrev Description": "D9972.20",
+    "Description": "D9972.20 GROUPON Whitening Trays",
+    "Cost": "$51.00"
+  },
+  {
+    "Procedure Code": "D9975.1",
+    "Abbrev Description": "D9975.1",
+    "Description": "SDM Recare Package $350.00",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D9975.2 S",
+    "Abbrev Description": "D9975.2 S",
+    "Description": "D9975.2 SDM Recare Package $280",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D9991 MI",
+    "Abbrev Description": "D9991 MI",
+    "Description": "D9991 MI PASTE",
+    "Cost": "$88.00"
+  },
+  {
+    "Procedure Code": "D9998",
+    "Abbrev Description": "D9998",
+    "Description": "No Show 1st Appoinmtnet",
+    "Cost": "$51.00"
+  },
+  {
+    "Procedure Code": "D9999.0 O",
+    "Abbrev Description": "D9999.0 O",
+    "Description": "D9999.0 Outstanding OLD treatme",
+    "Cost": "$51.00"
+  },
+  {
+    "Procedure Code": "D9999.1 P",
+    "Abbrev Description": "D9999.1 P",
+    "Description": "D9999.1 Previous Balance",
+    "Cost": "$51.00"
+  },
+  {
+    "Procedure Code": "D9999.20",
+    "Abbrev Description": "D9999.20",
+    "Description": "D9999.20 Lab Bill",
+    "Cost": "$51.00"
+  },
+  {
+    "Procedure Code": "D9999.201",
+    "Abbrev Description": "D9999.201",
+    "Description": "Records Update _ Balance Posted",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D9999.30",
+    "Abbrev Description": "POST OP",
+    "Description": "Post Operative",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D9999.50",
+    "Abbrev Description": "D9999.50",
+    "Description": "D9999.50 Returned to Lab",
+    "Cost": "$51.00"
+  },
+  {
+    "Procedure Code": "D9999.90",
+    "Abbrev Description": "ImprsMsc",
+    "Description": "Miscellanious Impression",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "DAY WHITE",
+    "Abbrev Description": "DAY WHITE",
+    "Description": "Day White",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "DESENSITI",
+    "Abbrev Description": "DESENSITI",
+    "Description": "Desensitizing Paste",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "FINANCIAL",
+    "Abbrev Description": "FinanCslt",
+    "Description": "Financial Consultation",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "GILT",
+    "Abbrev Description": "GILT",
+    "Description": "WHITENING",
+    "Cost": "$51.00"
+  },
+  {
+    "Procedure Code": "HOWARD",
+    "Abbrev Description": "HOWARD",
+    "Description": "Howard",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "ICEBERG A",
+    "Abbrev Description": "IcebergG",
+    "Description": "Iceberg Athletic Mouthguard",
+    "Cost": "$203.00"
+  },
+  {
+    "Procedure Code": "IMPRESSIO",
+    "Abbrev Description": "ImprsSlp",
+    "Description": "Impressions Oral Appliance/Slee",
+    "Cost": "$6,240.00"
+  },
+  {
+    "Procedure Code": "INSERT AT",
+    "Abbrev Description": "AtlcGuard",
+    "Description": "Insert Athletic Mouthguard",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "KHALIFE",
+    "Abbrev Description": "KHALIFE",
+    "Description": "Khalife",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "KOR WHITE",
+    "Abbrev Description": "KOR WHITE",
+    "Description": "Kor Whitening",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "MEDICAL",
+    "Abbrev Description": "MEDICAL",
+    "Description": "Medical",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "MI PASTE",
+    "Abbrev Description": "MI PASTE",
+    "Description": "MI PASTE",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "MOY",
+    "Abbrev Description": "MOY",
+    "Description": "Moy",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "NEW PROCE",
+    "Abbrev Description": "NEW PROCE",
+    "Description": "New Procedure",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "NITE WHIT",
+    "Abbrev Description": "NITE WHIT",
+    "Description": "Nite White",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "ORAL APPL",
+    "Abbrev Description": "OrlAplDlv",
+    "Description": "Oral Appliance/Sleep Device Del",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "PAT",
+    "Abbrev Description": "PAT",
+    "Description": "Pat",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "PATIENT R",
+    "Abbrev Description": "PATIENT R",
+    "Description": "Patient Responsibility",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "PERIDEX",
+    "Abbrev Description": "PERIDEX",
+    "Description": "Peridex",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "SLEEP APN",
+    "Abbrev Description": "SlpApCslt",
+    "Description": "Sleep Apnea Consultation",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "SNORE GUI",
+    "Abbrev Description": "SNORE GUI",
+    "Description": "Snore Guide Appliance",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "SONIHEAD",
+    "Abbrev Description": "SONIHEADS",
+    "Description": "Sonicare Replacement Heads",
+    "Cost": "$36.00"
+  },
+  {
+    "Procedure Code": "WHITENING",
+    "Abbrev Description": "WHITENING",
+    "Description": "Refill",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": 90620,
+    "Abbrev Description": "ExConsult",
+    "Description": "Exam and consultation",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": 20999,
+    "Abbrev Description": "OrthSplnt",
+    "Description": "Orthopedic splint (orthotic)",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": 64550,
+    "Abbrev Description": "TENS",
+    "Description": "Transcutan. electric. stimulat.",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": 97700,
+    "Abbrev Description": "AdjSplint",
+    "Description": "Adjust orthotic/splint",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": 95831,
+    "Abbrev Description": "MusclTest",
+    "Description": "Muscle testing",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": 209999,
+    "Abbrev Description": "MndKinRec",
+    "Description": "Mandibular kinesiograph record",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": 95868,
+    "Abbrev Description": "ElecMyogr",
+    "Description": "Electromyography",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": 8060.1,
+    "Abbrev Description": "InsLing",
+    "Description": "Insert Lingual Bar",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "SLEEP ADJ",
+    "Abbrev Description": "SlpAplAdj",
+    "Description": "Sleep Appliance Adjustment",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "SONIBRUSH",
+    "Abbrev Description": "SONIBRUSH",
+    "Description": "SONICARE TOOTHBRUSH",
+    "Cost": "$203.00"
+  },
+  {
+    "Procedure Code": "PRENEW",
+    "Abbrev Description": "PrenewPre",
+    "Description": "Prenew Preview Insert",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D6252.1",
+    "Abbrev Description": "InsBridge",
+    "Description": "Insert Pontic/Bridge",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D9991.0",
+    "Abbrev Description": "",
+    "Description": "ClinPro Toothpaste",
+    "Cost": "$36.00"
+  },
+  {
+    "Procedure Code": "D06190",
+    "Abbrev Description": "SrgGd",
+    "Description": "Surgical Guide",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D2740.3",
+    "Abbrev Description": "Crn Tryin",
+    "Description": "Crown Try In",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D5110.7",
+    "Abbrev Description": "Dent work",
+    "Description": "Denture Work",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D0411",
+    "Abbrev Description": "HbA1cTest",
+    "Description": "HbA1c in-office testing",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D5511",
+    "Abbrev Description": "RprDnBsLw",
+    "Description": "Repair comp denture base-mand",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D5512",
+    "Abbrev Description": "RprDnBsUp",
+    "Description": "Repair comp denture base- max",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D5611",
+    "Abbrev Description": "RprRsDBLw",
+    "Description": "Repair res part dent base, mand",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D5612",
+    "Abbrev Description": "RprRsDBUp",
+    "Description": "Repair res part dent base, max",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D5621",
+    "Abbrev Description": "RprPrFmLw",
+    "Description": "Repair cast partial frmwk, mand",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D5622",
+    "Abbrev Description": "RprPrFmUp",
+    "Description": "Repair cast partial frmwk, max",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D6096",
+    "Abbrev Description": "RmvImpScw",
+    "Description": "Remove broken implant screw",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D6118",
+    "Abbrev Description": "ImAbIFxLw",
+    "Description": "Imp/abu sup int FD denture-mand",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D6119",
+    "Abbrev Description": "ImAbIFxUp",
+    "Description": "Imp/abu sup int FD denture-max",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D7296",
+    "Abbrev Description": "Cortic1-3",
+    "Description": "Corticotomy - 1-3 th, per quad",
+    "Cost": "$3,120.00"
+  },
+  {
+    "Procedure Code": "D7297",
+    "Abbrev Description": "Cortico4+",
+    "Description": "Corticotomy - 4+ teeth per quad",
+    "Cost": "$4,680.00"
+  },
+  {
+    "Procedure Code": "D7979",
+    "Abbrev Description": "NoSrgSial",
+    "Description": "Non-surgical sialolithotomy",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D8695",
+    "Abbrev Description": "RmvFixRet",
+    "Description": "Removal of fixed retainer",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D9239",
+    "Abbrev Description": "IVSed<15m",
+    "Description": "IV conscious sed/analg-1st15m",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D9995",
+    "Abbrev Description": "VIRTUAL",
+    "Description": "Teledent- synch; real-time",
+    "Cost": "$260.00"
+  },
+  {
+    "Procedure Code": "D9996",
+    "Abbrev Description": "TDntAsyLr",
+    "Description": "Teledent-asynch;view info later",
+    "Cost": "$234.00"
+  },
+  {
+    "Procedure Code": "D6999.1",
+    "Abbrev Description": "",
+    "Description": "Bridge Adjustment",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D9972.33",
+    "Abbrev Description": "",
+    "Description": "Deliver Whitening trays",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D2952.2",
+    "Abbrev Description": "",
+    "Description": "Cast Post Try In",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "Botox Inj",
+    "Abbrev Description": "Botox Inj",
+    "Description": "Botox",
+    "Cost": "$1,300.00"
+  },
+  {
+    "Procedure Code": "D2610.3",
+    "Abbrev Description": "In/On Try",
+    "Description": "Try In Onlay/Inlay",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D6252.2",
+    "Abbrev Description": "BrgTryin",
+    "Description": "Bridge Try In",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "PreImpres",
+    "Abbrev Description": "PreImpres",
+    "Description": "Prenew Preview Impressions",
+    "Cost": "$364.00"
+  },
+  {
+    "Procedure Code": "BioTemImp",
+    "Abbrev Description": "BioTemImp",
+    "Description": "Impressions for BioTemps",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "BioTempIn",
+    "Abbrev Description": "BioTempIn",
+    "Description": "Insert BioTemps",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "NewTemp",
+    "Abbrev Description": "",
+    "Description": "Redo/Adj/Recem Temporary",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "VeneerTry",
+    "Abbrev Description": "VeneerTry",
+    "Description": "Veneer TryIn",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "OralBBrus",
+    "Abbrev Description": "OralBBrus",
+    "Description": "OralBBrush",
+    "Cost": "$125.00"
+  },
+  {
+    "Procedure Code": "BiteAdj",
+    "Abbrev Description": "BiteAdj",
+    "Description": "Bite Adj",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "AdjTemp",
+    "Abbrev Description": "AdjTemp",
+    "Description": "Adjust Temp",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "FullMouth",
+    "Abbrev Description": "FullMouth",
+    "Description": "Full Mouth Rehabilitation",
+    "Cost": "$104,000.00"
+  },
+  {
+    "Procedure Code": "SoniKIDS",
+    "Abbrev Description": "",
+    "Description": "SonicareKIDS",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "SonicKids",
+    "Abbrev Description": "",
+    "Description": "Sonicare Kids Toothbrush",
+    "Cost": "$57.00"
+  },
+  {
+    "Procedure Code": "NGDeliver",
+    "Abbrev Description": "NGDeliver",
+    "Description": "NG Delivery",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "InsVnArch",
+    "Abbrev Description": "",
+    "Description": "Insert Veneers, by arch",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D0412",
+    "Abbrev Description": "GlucLevel",
+    "Description": "Blood glucose level test",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D1516",
+    "Abbrev Description": "SpMFxBiUp",
+    "Description": "Space maint-fixed-bilateral,max",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D1517",
+    "Abbrev Description": "SpMFxBiLw",
+    "Description": "Space maint-fixed-bilaterl,mand",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D1526",
+    "Abbrev Description": "SpMRmBiUp",
+    "Description": "Space maint-remov-bilateral,max",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D1527",
+    "Abbrev Description": "SpMRmBiUw",
+    "Description": "Space maint-remov-bilaterl,mand",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D5282",
+    "Abbrev Description": "RmUnPDnUp",
+    "Description": "Remov unilat part denture-maxil",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D5283",
+    "Abbrev Description": "RmUnPDnLw",
+    "Description": "Remov unilat part denture-mand",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D5876",
+    "Abbrev Description": "Met+Dent",
+    "Description": "Add metal to denture (per arch)",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D9130",
+    "Abbrev Description": "TMJPhTher",
+    "Description": "TMJ:non-invasive phys therapies",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D9613",
+    "Abbrev Description": "TherDrug",
+    "Description": "Sustained rel therapeutic drug",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D9944",
+    "Abbrev Description": "OcGrdHful",
+    "Description": "Occl guard -hard appl full arch",
+    "Cost": "$1,250.00"
+  },
+  {
+    "Procedure Code": "D9945",
+    "Abbrev Description": "OcGrdSful",
+    "Description": "Occlusal guard- soft, full arch",
+    "Cost": "$676.00"
+  },
+  {
+    "Procedure Code": "D9946",
+    "Abbrev Description": "OcGrdHprt",
+    "Description": "Occlusal guard- hard, part arch",
+    "Cost": "$676.00"
+  },
+  {
+    "Procedure Code": "D9961",
+    "Abbrev Description": "CopyPtRec",
+    "Description": "Duplicate/copy patient records",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D9990",
+    "Abbrev Description": "TranslSL",
+    "Description": "Trans/sign-languageper visit",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "Reprep",
+    "Abbrev Description": "Reprep",
+    "Description": "Reprep of Veneer/Crn/Bridge",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "IteroScan",
+    "Abbrev Description": "IteroScan",
+    "Description": "Itero Scan",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "Propel",
+    "Abbrev Description": "Propel",
+    "Description": "Propel",
+    "Cost": "$1,560.00"
+  },
+  {
+    "Procedure Code": "TempBridg",
+    "Abbrev Description": "TempBridg",
+    "Description": "Temp Bridge",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": 2394.9,
+    "Abbrev Description": "CrsCtrlQd",
+    "Description": "Caries Control Quad",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "CariesQd",
+    "Abbrev Description": "CariesQd",
+    "Description": "Caries Control",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "BlakkGril",
+    "Abbrev Description": "",
+    "Description": "BlakkGrillz",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "MedIns",
+    "Abbrev Description": "MedIns",
+    "Description": "Employee Medical Insurance",
+    "Cost": "$1,400.00"
+  },
+  {
+    "Procedure Code": "ACCEL",
+    "Abbrev Description": "ACCEL",
+    "Description": "Acceledent",
+    "Cost": "$1,300.00"
+  },
+  {
+    "Procedure Code": "D0419",
+    "Abbrev Description": "SalivaMsr",
+    "Description": "Assess saliva flow-measurement",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D1551",
+    "Abbrev Description": "ReBiSpUp",
+    "Description": "Re-cmnt/bnd bilat sp mnt-max",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D1552",
+    "Abbrev Description": "ReBiSpLo",
+    "Description": "Re-cmnt/bnd bilat sp mnt-mand",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D1553",
+    "Abbrev Description": "ReUnSpQud",
+    "Description": "Re-cmnt/bnd unilat sp mnt-quad",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D1556",
+    "Abbrev Description": "RmvSpcQud",
+    "Description": "Remov fixd unilat sp maint-quad",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D1557",
+    "Abbrev Description": "RmvSpcUpp",
+    "Description": "Remov fixed bilat sp maint-max",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D1558",
+    "Abbrev Description": "RmvSpcLow",
+    "Description": "Remov fixed bilat sp maint-mand",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D2753",
+    "Abbrev Description": "CrnPrFTtn",
+    "Description": "Crown-porc fused to titanium",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D5284",
+    "Abbrev Description": "RmUnPDFlQ",
+    "Description": "Remov unil part dentr-flex-quad",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D5286",
+    "Abbrev Description": "RmUnPDRsQ",
+    "Description": "Remov unil part dent-resin-quad",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D6082",
+    "Abbrev Description": "ImCrnPcBs",
+    "Description": "Implnt sup crn-prc -base alloys",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D6083",
+    "Abbrev Description": "ImCrnPcNb",
+    "Description": "Implnt sup crn-prc-noble alloys",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D6084",
+    "Abbrev Description": "ImCrnPcTn",
+    "Description": "Implnt sup crn-prc-titanium",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D6086",
+    "Abbrev Description": "ImCrnBase",
+    "Description": "Implant supp crown-base alloys",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D6087",
+    "Abbrev Description": "ImCrnNble",
+    "Description": "Implant supp crown-noble alloys",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D6088",
+    "Abbrev Description": "ImCrnTtnm",
+    "Description": "Implant supp crown-titanium",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D6097",
+    "Abbrev Description": "AbtSCrPcT",
+    "Description": "Abut sup crown-prc fus-titanium",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D6098",
+    "Abbrev Description": "ImpSRtPcB",
+    "Description": "Imp sup retainer-prc fuse-base",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D6099",
+    "Abbrev Description": "ImpSRFPD",
+    "Description": "Imp sup retn,FPD-prc fus-noble",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D6120",
+    "Abbrev Description": "ImSRtPcTm",
+    "Description": "Imp sup ret-prc fuse-titanium",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D6121",
+    "Abbrev Description": "ISRFPDBas",
+    "Description": "Imp sup ret,metal FPD-base",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D6122",
+    "Abbrev Description": "ISRFPDNob",
+    "Description": "Imp sup ret,metal FPD-noble",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D6123",
+    "Abbrev Description": "ISRFPDTtm",
+    "Description": "Imp sup ret,metal FPD-titanium",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D6195",
+    "Abbrev Description": "AbRetPcTm",
+    "Description": "Abut sup ret-prc fus-titanium",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D6243",
+    "Abbrev Description": "PntPrFTnm",
+    "Description": "Pontic-porcelain fused-titanium",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D6753",
+    "Abbrev Description": "CrnPcFTnm",
+    "Description": "Crown-porcelain fused-titanium",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D6784",
+    "Abbrev Description": "RtCn3/4Tm",
+    "Description": "Crown-3/4 titanium & tnm alloys",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D7922",
+    "Abbrev Description": "PlacDress",
+    "Description": "Placement of dressing, per site",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D8696",
+    "Abbrev Description": "RepOrApUp",
+    "Description": "Repair ortho appliance-maxill",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D8697",
+    "Abbrev Description": "RepOrApLo",
+    "Description": "Repair ortho appliance-mandib",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D8698",
+    "Abbrev Description": "RecRetUp",
+    "Description": "Recment/bond fxd retainer-maxil",
+    "Cost": "$494.00"
+  },
+  {
+    "Procedure Code": "D8699",
+    "Abbrev Description": "RecRetLo",
+    "Description": "Recment/bond fxd retainer-mand",
+    "Cost": "$260.00"
+  },
+  {
+    "Procedure Code": "D8701",
+    "Abbrev Description": "RAttRetUp",
+    "Description": "Rpr/reattch fxd retainer-maxil",
+    "Cost": "$676.00"
+  },
+  {
+    "Procedure Code": "D8702",
+    "Abbrev Description": "RAttRetLo",
+    "Description": "Rpr/reattch fxd retainer-mandib",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D8703",
+    "Abbrev Description": "RepRetUp",
+    "Description": "Replace retainer-maxillary",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D8704",
+    "Abbrev Description": "RepRetLo",
+    "Description": "Replace retainer-mandibular",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D9997",
+    "Abbrev Description": "DCMSpNeed",
+    "Description": "DCM: special health care needs",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D0604",
+    "Abbrev Description": "AntigenPH",
+    "Description": "Antigen testing, public health",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "CADCAMSI",
+    "Abbrev Description": "CADCAMSIM",
+    "Description": "CAD CAM Smart Image",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D0000",
+    "Abbrev Description": "",
+    "Description": "Account Clean UP",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "SHIPFEE",
+    "Abbrev Description": "SHIPFEE",
+    "Description": "Shipping Fee",
+    "Cost": "$16.00"
+  },
+  {
+    "Procedure Code": "COVID",
+    "Abbrev Description": "COVID",
+    "Description": "COVID TEST",
+    "Cost": "$156.00"
+  },
+  {
+    "Procedure Code": 1000,
+    "Abbrev Description": "",
+    "Description": "Office Visit",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "Cov-ANBD",
+    "Abbrev Description": "Cov-ANBD",
+    "Description": "Covid- Test for Antibodies",
+    "Cost": "$36.00"
+  },
+  {
+    "Procedure Code": "Cov-ATGN",
+    "Abbrev Description": "Cov-ATGN",
+    "Description": "Covid- Test for Antigen",
+    "Cost": "$125.00"
+  },
+  {
+    "Procedure Code": "Cov- PCR!",
+    "Abbrev Description": "Cov- PCR!",
+    "Description": "Covid- PCR Test Rapid 12-24hrs",
+    "Cost": "$364.00"
+  },
+  {
+    "Procedure Code": "Cov- PCR+",
+    "Abbrev Description": "Cov- PCR+",
+    "Description": "Covid- PCR Test, 48-72hrs",
+    "Cost": "$260.00"
+  },
+  {
+    "Procedure Code": "InsOvrdnt",
+    "Abbrev Description": "InsOvrdnt",
+    "Description": "Insert Implant Overdenture",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "Concierge",
+    "Abbrev Description": "Concierge",
+    "Description": "Concierge and Travel Service",
+    "Cost": "$312.00"
+  },
+  {
+    "Procedure Code": "ADJDENT",
+    "Abbrev Description": "ADJDENT",
+    "Description": "Denture Adjustment",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D7961",
+    "Abbrev Description": "FrenmyBL",
+    "Description": "Frenectomy - buccal/labial",
+    "Cost": "$442.00"
+  },
+  {
+    "Procedure Code": "D6192",
+    "Abbrev Description": "PlSmPrAtt",
+    "Description": "Place semi-precision attachment",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D6191",
+    "Abbrev Description": "PlSmPrAb",
+    "Description": "Place semi-precision abutment",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D5996",
+    "Abbrev Description": "PrMdCrSlL",
+    "Description": "Perio med carrier,seal,lab-mnd",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D5995",
+    "Abbrev Description": "PrMdCrSlU",
+    "Description": "Perio med carrier,seal,lab-max",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D3503",
+    "Abbrev Description": "SrExRsMol",
+    "Description": "Surg exposure, rt surf-molar",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D3502",
+    "Abbrev Description": "SrExRsPrm",
+    "Description": "Surg exposure, rt surf-premolar",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D3501",
+    "Abbrev Description": "SrExRsAnt",
+    "Description": "Surg exposure, rt surf-anterior",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D3473",
+    "Abbrev Description": "SrRpRtMol",
+    "Description": "Surg rep, root resorption-molar",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D3472",
+    "Abbrev Description": "SrRpRtPrM",
+    "Description": "Surg rep, root resorption-premo",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D3471",
+    "Abbrev Description": "SrRpRtAnt",
+    "Description": "Surg rep, root resorption-anter",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D2928",
+    "Abbrev Description": "PCrnPCPrm",
+    "Description": "Prefab Porcelain/C Crown-Perm",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D1355",
+    "Abbrev Description": "CarPrvMed",
+    "Description": "Caries preventive meds-per th",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D1321",
+    "Abbrev Description": "SubstCnsl",
+    "Description": "Substance use counseling",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D0709",
+    "Abbrev Description": "SeriesCap",
+    "Description": "I/O comp ser-image capture only",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D0708",
+    "Abbrev Description": "BWX-Captr",
+    "Description": "I/O bitewing-image capture only",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D0707",
+    "Abbrev Description": "PeriCaptr",
+    "Description": "I/O periapical-img capture only",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D0706",
+    "Abbrev Description": "OcclCaptr",
+    "Description": "I/O occlusal-image capture only",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D0705",
+    "Abbrev Description": "PostCaptr",
+    "Description": "E/O posterior img-capture only",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D0704",
+    "Abbrev Description": "3DPhCaptr",
+    "Description": "3D photo image-capture only",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D0703",
+    "Abbrev Description": "2DPhCaptr",
+    "Description": "2Doral/fac'l photo-capture only",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D0702",
+    "Abbrev Description": "CephCaptr",
+    "Description": "2D ceph - image capture only",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D0701",
+    "Abbrev Description": "PanoCaptr",
+    "Description": "Pano - image capture only",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D0605",
+    "Abbrev Description": "AntibodPH",
+    "Description": "Antibody testing, public health",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "Wax Tryin",
+    "Abbrev Description": "Wax Tryin",
+    "Description": "Wax Try-in",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D7962",
+    "Abbrev Description": "FrenmyLi",
+    "Description": "Frenectomy - lingual",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D7993",
+    "Abbrev Description": "CFImplEO",
+    "Description": "Craniofacial implant-extra oral",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D7994",
+    "Abbrev Description": "ZygoImpl",
+    "Description": "Zygomatic implant",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "InsImpBri",
+    "Abbrev Description": "InsImpBri",
+    "Description": "Insert Implant Bridge",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "RECEMBB",
+    "Abbrev Description": "",
+    "Description": "Recement Bridge",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D9949",
+    "Abbrev Description": "RepSlApAp",
+    "Description": "Repair cust sleep apnea appl",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D9948",
+    "Abbrev Description": "AdjSlApAp",
+    "Description": "Adj cust sleep apnea appliance",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D9947",
+    "Abbrev Description": "CstSlApAp",
+    "Description": "Cust sleep apnea appl fab&place",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D9912",
+    "Abbrev Description": "PrePtScrn",
+    "Description": "Pre-visit patient screening",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D7300",
+    "Abbrev Description": "RmAnch",
+    "Description": "Rmv temp anch dev, w/o flap",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D7299",
+    "Abbrev Description": "RmAnchFl",
+    "Description": "Rmv temp anch dev, req flap",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D7298",
+    "Abbrev Description": "RemPlate",
+    "Description": "Rmv screw retnd plate,req flap",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D6198",
+    "Abbrev Description": "RemIntImp",
+    "Description": "Remv interim implant component",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D5765",
+    "Abbrev Description": "LnRemDntr",
+    "Description": "Soft liner,remov dentr-indirect",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D5725",
+    "Abbrev Description": "RebsHybPr",
+    "Description": "Rebase hybrid prosthesis",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D5228",
+    "Abbrev Description": "ImLwPtFlB",
+    "Description": "Imd mand partial-flexible base",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D5227",
+    "Abbrev Description": "ImUpPtFlB",
+    "Description": "Imd maxil partl-flexible base",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D4323",
+    "Abbrev Description": "SplExCoro",
+    "Description": "Splint - extra-coronal",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D4322",
+    "Abbrev Description": "SplInCoro",
+    "Description": "Splint - intra-coronal",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D3921",
+    "Abbrev Description": "DecorSubT",
+    "Description": "Decoronat/submerg, erupted th",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D3911",
+    "Abbrev Description": "IntOrBarr",
+    "Description": "Intraorifice barrier",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D1707",
+    "Abbrev Description": "JanssenVc",
+    "Description": "Janssen Covid-19 vaccine admin",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D1706",
+    "Abbrev Description": "AstZenic2",
+    "Description": "AstraZenecaCovid-19vacc,dose2nd",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D1705",
+    "Abbrev Description": "AstZenic1",
+    "Description": "AstraZenecaCovid-19vacc,dose1st",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D1704",
+    "Abbrev Description": "Moderna2",
+    "Description": "Moderna Covid-19 vacc,2nd dose",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D1703",
+    "Abbrev Description": "Moderna1",
+    "Description": "Moderna Covid-19 vacc,1st dose",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D1702",
+    "Abbrev Description": "Pfizer2",
+    "Description": "Pfizer Covid-19 vacc, 2nd dose",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D1701",
+    "Abbrev Description": "Pfizer1",
+    "Description": "Pfizer Covid-19 vacc, 1st dose",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D0606",
+    "Abbrev Description": "TestPath",
+    "Description": "Test for public health pathogen",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D6019.1",
+    "Abbrev Description": "D6019.1",
+    "Description": "Yomi Implant Guide",
+    "Cost": "$750.00"
+  },
+  {
+    "Procedure Code": "D6091.1",
+    "Abbrev Description": "Yomi",
+    "Description": "Yomi Surgical Guide",
+    "Cost": "$780.00"
+  },
+  {
+    "Procedure Code": 1000.1,
+    "Abbrev Description": "",
+    "Description": "Last Min Cxl",
+    "Cost": "$125.00"
+  },
+  {
+    "Procedure Code": "3Shape",
+    "Abbrev Description": "3Shape",
+    "Description": "3shape Wellness Scan",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": 15118,
+    "Abbrev Description": "openbite",
+    "Description": "Open bite",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": 15117,
+    "Abbrev Description": "Partialer",
+    "Description": "Partial eruption",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "d6010.50",
+    "Abbrev Description": "",
+    "Description": "Implant Impression",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D8090.5",
+    "Abbrev Description": "ClearMid",
+    "Description": "D8090.5 Clear Correct Mid Cours",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D8690.10",
+    "Abbrev Description": "IPR",
+    "Description": "IPR",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "BrdgeImpr",
+    "Abbrev Description": "BrdgeImpr",
+    "Description": "Bridge Impressions",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "GEM",
+    "Abbrev Description": "GEM",
+    "Description": "Tooth Gem",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "CCScan",
+    "Abbrev Description": "CCScan",
+    "Description": "Clear Correct Scan",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D9953",
+    "Abbrev Description": "RlnSlpApI",
+    "Description": "Reline custom sleep apnea appl",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D7957",
+    "Abbrev Description": "GTRNresbE",
+    "Description": "Guide tis regen, edent, noresor",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D7956",
+    "Abbrev Description": "GTRRsrbEs",
+    "Description": "Guide tis regen, edent, resorb",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D7509",
+    "Abbrev Description": "MarsupOTC",
+    "Description": "Marsupialization of Odontogenic",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D6197",
+    "Abbrev Description": "RepSrtImp",
+    "Description": "Rep rest opn screw-rtnd implt p",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D0372",
+    "Abbrev Description": "IOTomFMS",
+    "Description": "Intraoral Tomo-full mouth image",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D6107",
+    "Abbrev Description": "GTRNresBa",
+    "Description": "Guided Tiss Regen, Nonresorb Ba",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D6106",
+    "Abbrev Description": "GTRResBar",
+    "Description": "Guided Tiss Regen, Resorb Barri",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D6105",
+    "Abbrev Description": "RemImpBdy",
+    "Description": "Rem Implant Body no Bone Remova",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D4286",
+    "Abbrev Description": "RemNoReBa",
+    "Description": "Removal of Non-Resorbable Barri",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D1783",
+    "Abbrev Description": "HumanPap3",
+    "Description": "Human Papillomavirus, vacc admi",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D1782",
+    "Abbrev Description": "HumanPap2",
+    "Description": "Human Papillomavirus, vacc admi",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D1781",
+    "Abbrev Description": "HumanPap1",
+    "Description": "Human Papillomavirus, vacc admi",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D1714",
+    "Abbrev Description": "PfizerP2",
+    "Description": "Pfizer Covid-19 vacc admin pedo",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D1713",
+    "Abbrev Description": "PfizerP1",
+    "Description": "Pfizer Covid-19 vacc admin pedo",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D1712",
+    "Abbrev Description": "JanssenB",
+    "Description": "Janssen Covid-19 vacc admin - b",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D1711",
+    "Abbrev Description": "ModernaB",
+    "Description": "Moderna Covid-19 vacc admin - b",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D1710",
+    "Abbrev Description": "Moderna3",
+    "Description": "Moderna Covid-19 vacc admin, 3r",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D1709",
+    "Abbrev Description": "PfizerB",
+    "Description": "Pfizer Covid-19 vacc admin - bo",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D1708",
+    "Abbrev Description": "Pfizer3",
+    "Description": "Pfizer Covid-19 vacc admin, 3rd",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D0804",
+    "Abbrev Description": "3DFScnInd",
+    "Description": "3D facial surface scan - indire",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D0803",
+    "Abbrev Description": "3DFScnDir",
+    "Description": "3D facial surface scan - direct",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D0802",
+    "Abbrev Description": "3DDScnInd",
+    "Description": "3D dental surface scan - indire",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D0801",
+    "Abbrev Description": "3DDScnDir",
+    "Description": "3D dental surface scan - direct",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D0389",
+    "Abbrev Description": "CapTomoPA",
+    "Description": "Intraoral tomo, Periapical - ca",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D0388",
+    "Abbrev Description": "CapTomoBW",
+    "Description": "Intraoral Tomo, Bitewing  - Cap",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D0387",
+    "Abbrev Description": "CapTomoFM",
+    "Description": "Intraoral Tomo, Full Mouth, Cap",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D0374",
+    "Abbrev Description": "IOTomPA",
+    "Description": "Intraoral Tomo, Periapical Imag",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D0373",
+    "Abbrev Description": "IOTomBW",
+    "Description": "Intraoral Tomo, Bitewing Image",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "IVDrip",
+    "Abbrev Description": "IVDrip",
+    "Description": "IV drip",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "GEMOFF",
+    "Abbrev Description": "GEMOFF",
+    "Description": "Tooth Gem Removal",
+    "Cost": "$36.00"
+  },
+  {
+    "Procedure Code": "D6065.1",
+    "Abbrev Description": "InsImplCr",
+    "Description": "Insert Implant Crown",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D8210.1",
+    "Abbrev Description": "Mybracefu",
+    "Description": "Myobrace Follow Up Visit",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "Art",
+    "Abbrev Description": "Art",
+    "Description": "Art",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D0120.1",
+    "Abbrev Description": "NoExam",
+    "Description": "No Periodic Oral Evaluation",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D9957",
+    "Abbrev Description": "ScnSlpBDs",
+    "Description": "Scrn slp-reltd breath disorders",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D9956",
+    "Abbrev Description": "AdHSlpTst",
+    "Description": "Admin home sleep apnea test",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D9955",
+    "Abbrev Description": "OATTtrVst",
+    "Description": "Oral appli thrpy (OAT) trt vst",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D9954",
+    "Abbrev Description": "FbOtMoRDe",
+    "Description": "Fab/del (OAT) morn rposit dvice",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D9939",
+    "Abbrev Description": "PlCRmvApl",
+    "Description": "Plmnt cust rmv plstc asth appl",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D9938",
+    "Abbrev Description": "FbCRmvApl",
+    "Description": "Fab cust rmv plstc asthtic appl",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D7939",
+    "Abbrev Description": "OsteDyRoA",
+    "Description": "Indx osteo w/dyna rbtic asst/nv",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D7284",
+    "Abbrev Description": "ExBpsySGl",
+    "Description": "Excis bpsy  minor salivy glnds",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D6089",
+    "Abbrev Description": "RetImScrw",
+    "Description": "Acc/rtorque lse imp scr-per scr",
+    "Cost": "$988.00"
+  },
+  {
+    "Procedure Code": "D2991",
+    "Abbrev Description": "Hydrxyapa",
+    "Description": "Appl hydrxy regen medic-per th",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D2989",
+    "Abbrev Description": "ExThRestr",
+    "Description": "Excv th determine rstorability",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D2976",
+    "Abbrev Description": "BndStbPTh",
+    "Description": "Band stabilization-per tooth",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D1301",
+    "Abbrev Description": "ImmunCnsl",
+    "Description": "Immunization counseling",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D0396",
+    "Abbrev Description": "3dPtSfScn",
+    "Description": "3D print of 3D dental surf scn",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D2956",
+    "Abbrev Description": "ReIdReNTh",
+    "Description": "Removal indir rest nat tooth",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "CUTERA.2",
+    "Abbrev Description": "SINGLE",
+    "Description": "CUTERA (truSculpt flex)",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "BIOHACK",
+    "Abbrev Description": "",
+    "Description": "BIOHACK",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "BRUNA REF",
+    "Abbrev Description": "BRUNA REF",
+    "Description": "Referral by Bruna R.",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "CUTERA.1",
+    "Abbrev Description": "TruSculpt",
+    "Description": "Cutera (truSculpt iD)",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D9959",
+    "Abbrev Description": "UnSlApSPr",
+    "Description": "Unspec sleep apn servi proc-B/R",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D9914",
+    "Abbrev Description": "AdmDerFil",
+    "Description": "Admin of dermal fillers",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D9913",
+    "Abbrev Description": "AdmNeurom",
+    "Description": "Admin of neuromodulators",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D8671",
+    "Abbrev Description": "OrTrOrgSu",
+    "Description": "Period orth trt assoc ortho srg",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D8091",
+    "Abbrev Description": "ComOTOSur",
+    "Description": "Compreh orth treat, orthog surg",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D7259",
+    "Abbrev Description": "NerveDiss",
+    "Description": "Nerve Dissection",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D7252",
+    "Abbrev Description": "PaExImpPt",
+    "Description": "Part extrct immed imp plmnt",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D6193",
+    "Abbrev Description": "ReImScrew",
+    "Description": "Replacement of implant screw",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "D6180",
+    "Abbrev Description": "IMFAFHyPr",
+    "Description": "Imp main full arch fxd hybd pro",
+    "Cost": "$0.00"
+  },
+  {
+    "Procedure Code": "BAMBOO",
+    "Abbrev Description": "",
+    "Description": "Guaranteeth Bamboo Toothbrush",
+    "Cost": "$15.99"
+  },
+  {
+    "Procedure Code": "WHITE KIT",
+    "Abbrev Description": "",
+    "Description": "Guaranteeth Whitening Kit",
+    "Cost": "$119.99"
+  },
+  {
+    "Procedure Code": "KIT",
+    "Abbrev Description": "",
+    "Description": "Guaranteeth Bundle Kit",
+    "Cost": "$280.00"
+  },
+  {
+    "Procedure Code": "FLOSS",
+    "Abbrev Description": "",
+    "Description": "Guaranteeth Floss Picks",
+    "Cost": "$14.00"
+  },
+  {
+    "Procedure Code": "ELECTRIC",
+    "Abbrev Description": "",
+    "Description": "Guaranteeth Electric ToothBrush",
+    "Cost": "$109.00"
+  },
+  {
+    "Procedure Code": "SCRAPER",
+    "Abbrev Description": "",
+    "Description": "Guaranteeth Tongue Scraper",
+    "Cost": "$15.99"
+  },
+  {
+    "Procedure Code": "COLOR",
+    "Abbrev Description": "",
+    "Description": "Guaranteeth Color Serum",
+    "Cost": "$22.00"
+  }
+]
