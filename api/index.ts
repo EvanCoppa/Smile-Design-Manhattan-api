@@ -9,8 +9,12 @@ const PORT = process.env.PORT || 3001;
 
 app.use(express.json({ limit: '50mb' }));
 
-
-app.use(cors);
+// Allow the browser to send the Origin header on all requests
+const corsOptions = {
+  origin: '*',
+  allowedHeaders: ['Origin', 'X-Requested-With', 'Content-Type', 'Accept']
+};
+app.use(cors(corsOptions));
 // Authentication Routes
 app.post('/register', (req, res) => {
   try {
@@ -235,7 +239,10 @@ app.delete('/visits/:id', async (req, res) => {
   }
 });
 
- 
+app.get('/', (req, res) => {
+    res.send('Smile Design Manhattan API');
+});
+
 // start server
 app.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`);
