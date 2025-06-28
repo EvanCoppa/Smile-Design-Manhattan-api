@@ -206,7 +206,7 @@ app.post('/visits', async (req, res) => {
     const newVisit = data.createVisit(req.body);
     res.status(201).json(newVisit);
   } catch (err) {
-    res.status(500).json({ error: err.message });
+    res.status(500).json({ error: err.message + "hello"});
   }
 });
 
