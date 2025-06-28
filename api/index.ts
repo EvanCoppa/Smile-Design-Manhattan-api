@@ -9,12 +9,11 @@ const PORT = process.env.PORT || 3001;
 
 app.use(express.json({ limit: '50mb' }));
 
-// Allow the browser to send the Origin header on all requests
-const corsOptions = {
-  origin: '*',
-  allowedHeaders: ['Origin', 'X-Requested-With', 'Content-Type', 'Accept']
-};
-app.use(cors(corsOptions));
+app.use(cors({
+  origin: 'https://guaranteeth-slides.vercel.app', // or your actual frontend domain
+  credentials: true
+}));
+
 // Authentication Routes
 app.post('/register', (req, res) => {
   try {
