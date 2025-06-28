@@ -8,14 +8,7 @@
   "devDependencies": {
     "@types/node": "^24.0.4"
   },
-  
   "scripts": {
-    "start": "node index.js"
-  },
-  "engines": {
-  "node": "20.x"
-}
-
-
-
+    "start": "node api/index.js"
+  }
 }
