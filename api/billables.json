@@ -1,15 +1,4 @@
-[ {
-    "Procedure Code": "UPREST",
-    "Abbrev Description": "",
-    "Description": "Veneers Upper",
-    "Cost": "$32,500.00"
-  },
-   {
-    "Procedure Code": "LOWREST",
-    "Abbrev Description": "Veneers lower",
-    "Description": "Guaranteeth Color Serum",
-    "Cost": "$32,500.00"
-  },
+[ 
   {
     "Procedure Code": "D0120",
     "Abbrev Description": "PeriodicX",
