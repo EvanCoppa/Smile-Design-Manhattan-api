@@ -5009,6 +5009,19 @@
     "Cost": "$104,000.00"
   },
   {
+    "Procedure Code": "UppderRehabilitation",
+    "Abbrev Description": "Upper Mouth Rehabilitation",
+    "Description": "Upper Mouth Rehabilitation",
+    "Cost": "$32,500.00"
+  },
+  {
+    "Procedure Code": "LowerRehabilitation",
+    "Abbrev Description": "Lower Mouth Rehabilitation",
+    "Description": "Lower Mouth Rehabilitation",
+    "Cost": "$32,500.00"
+  },
+
+  {
     "Procedure Code": "SoniKIDS",
     "Abbrev Description": "",
     "Description": "SonicareKIDS",
